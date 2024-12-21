@@ -1,0 +1,1001 @@
+id,first_name,last_name,email,gender,CRM ID,Products,Postal Code,Profiling Consents,Comms. Consents,Loyalty Program,Loyalty Status
+1,Una,Kolin,ukolin0@newsvine.com,Female,52410-3040,"[{2023-04-01,Telefonía,P-001,2025-03-31}",31236.0,False,0.0,False,
+2,Kaila,Hasted,khasted1@ameblo.jp,,51285-697,"[{2021-04-01,Telefonía,P-001,2025-03-31},{2024-06-01,Fibra,P-002,2028-03-31}",,False,1.0,True,Silver
+3,Magdaia,Steagall,msteagall2@cisco.com,Female,33992-1108,"[{2023-04-01,Telefonía,P-001,2025-03-31}",68203.0,False,0.0,False,
+4,Sherill,De Cristoforo,sdecristoforo3@naver.com,,54868-2482,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+5,Rory,Von Welldun,rvonwelldun4@printfriendly.com,,11410-301,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,,False,
+6,Natty,Axtell,naxtell5@samsung.com,,64406-922,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+7,Onofredo,Liddell,oliddell6@nature.com,,0168-0417,"[{2023-04-01,Telefonía,P-001,2025-03-31}",92896.0,True,1.0,False,
+8,Guglielma,Snelson,gsnelson7@ameblo.jp,,0378-0473,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+9,Scot,Doyley,sdoyley8@reference.com,Male,52554-1001,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",85029.0,False,1.0,True,Platinum 
+10,Leila,Kynsey,lkynsey9@wikispaces.com,,49035-511,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+11,Jarib,Liverseege,jliverseegea@microsoft.com,,68093-7091,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+12,Dodie,Georgius,,Female,76237-258,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",15358.0,False,0.0,True,Gold
+13,Cristine,Shapira,cshapirac@indiegogo.com,Female,0126-0131,"[{2023-04-01,Telefonía,P-001,2025-03-31}",89023.0,False,0.0,False,
+14,Stafford,Folli,sfollid@weibo.com,,48951-2064,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Platinum
+15,Raoul,Bufton,rbuftone@amazon.de,,54569-1096,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+16,Kassie,Yeomans,kyeomansf@apple.com,,61957-1920,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+17,Town,Pierson,tpiersong@naver.com,Polygender,43857-0096,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+18,Wileen,Keuneke,wkeunekeh@twitter.com,,49348-229,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+19,Melanie,Cabral,mcabrali@yelp.com,,54340-800,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+20,Kinny,Moorcraft,kmoorcraftj@geocities.jp,,0781-2201,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+21,Rosette,Lindgren,rlindgrenk@clickbank.net,,10356-351,"[{2024-24-01,Telefonía,P-001,4000-03-31}",52008.0,False,,True,Bronze
+22,Rozanne,Izzett,rizzettl@instagram.com,,54575-099,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,,True,Bronze
+23,Courtnay,Rowat,crowatm@livejournal.com,,68703-042,"[{2023-04-01,Telefonía,P-001,2025-03-31}",50675.0,False,1.0,False,
+24,Ivette,Goslin,igoslinn@studiopress.com,Female,52261-0203,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Silver
+25,Allene,Saye,asayeo@sciencedaily.com,Female,68788-9864,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+26,Nixie,Glasbey,nglasbeyp@posterous.com,Female,36987-1344,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+27,Vale,Bayford,vbayfordq@ocn.ne.jp,,43269-612,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",68499.0,False,0.0,True,Diamond
+28,Horace,Code,hcoder@un.org,Male,0378-0414,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+29,Kippy,McKissack,,,54575-467,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+30,Brok,Tierney,btierneyt@admin.ch,,21695-717,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",10332.0,False,1.0,True,Silver
+31,Tommie,Dorkens,tdorkensu@mac.com,Female,54868-5847,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+32,Rheba,McQuillin,,,43598-321,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+33,Joanie,Inker,jinkerw@themeforest.net,,0409-0182,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+34,Nevsa,Chardin,nchardinx@hubpages.com,,41499-105,"[{2023-04-01,Telefonía,P-001,2025-03-31}",67557.0,True,0.0,False,
+35,Dion,Girkin,dgirkiny@privacy.gov.au,,76449-050,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+36,Marney,Wilmington,mwilmingtonz@mapy.cz,,13537-249,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+37,Angelina,Rhead,arhead10@nasa.gov,,64117-128,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+38,Hayden,Ockland,hockland11@blogger.com,,37205-138,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+39,Justen,Schukraft,jschukraft12@seesaa.net,Male,65044-5130,"[{2023-04-01,Telefonía,P-001,2025-03-31}",45866.0,True,1.0,False,
+40,Zsazsa,Risson,zrisson13@issuu.com,,41520-532,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+41,Maddi,Scemp,mscemp14@google.es,,62187-0001,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+42,Maggi,Thornebarrow,mthornebarrow15@etsy.com,,0113-0110,"[{2024-24-01,Telefonía,P-001,4000-03-31}",37581.0,False,0.0,True,Bronze
+43,Godfree,Dymick,gdymick16@wiley.com,,55289-694,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+44,Roshelle,Yurikov,ryurikov17@spotify.com,,16590-255,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+45,Hayes,Casswell,hcasswell18@geocities.jp,,41163-607,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+46,Larina,Grayham,lgrayham19@whitehouse.gov,,63304-774,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+47,Jaimie,Bexley,,,0409-3814,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+48,Edythe,Betjes,ebetjes1b@cbslocal.com,,55312-886,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Silver
+49,Bonni,Dow,bdow1c@dropbox.com,,36987-1489,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,,False,
+50,Walliw,Clempton,wclempton1d@theglobeandmail.com,Female,10742-8598,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+51,Trina,Kaiser,tkaiser1e@istockphoto.com,,43742-0172,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+52,Murdock,Chaters,mchaters1f@microsoft.com,,36800-256,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+53,Karole,Hevner,,,11489-087,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+54,Clo,Smither,csmither1h@histats.com,,33342-077,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Diamond
+55,Sabra,MacClancey,smacclancey1i@princeton.edu,,42291-656,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Platinum
+56,Fedora,Fronczak,ffronczak1j@ed.gov,,0781-3173,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+57,Maude,Padula,mpadula1k@businessinsider.com,Female,0574-4103,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+58,Hildegarde,Yushkov,hyushkov1l@ed.gov,Female,67147-221,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",75737.0,True,0.0,True,Gold
+59,Ezechiel,Conichie,econichie1m@storify.com,,0904-0304,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+60,Asia,Rubinsaft,arubinsaft1n@wikipedia.org,Female,51452-005,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+61,Phillipp,Dumbrell,pdumbrell1o@flickr.com,,41520-092,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+62,Gustave,Brimelow,gbrimelow1p@buzzfeed.com,Bigender,60512-6001,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",10956.0,True,1.0,True,Silver
+63,Silva,Cockley,scockley1q@un.org,Genderqueer,66915-450,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+64,Marika,Barnet,,,49738-466,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+65,Johannah,McKibben,jmckibben1s@mac.com,,63868-131,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",41514.0,False,0.0,True,Gold
+66,Lloyd,Trembey,,Male,10019-176,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+67,Malcolm,Sherry,msherry1u@ezinearticles.com,,59138-002,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+68,Hyacinthe,Grisewood,,,41268-368,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,,True,Silver
+69,Therine,Lavens,tlavens1w@facebook.com,,63941-352,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+70,Cybill,Baudain,,Female,55289-077,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,,False,
+71,Sayres,Shivlin,sshivlin1y@cbsnews.com,,68479-804,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+72,Leda,Bristoe,lbristoe1z@jugem.jp,,52125-758,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+73,Baudoin,Denk,bdenk20@nps.gov,,0591-5535,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+74,Cozmo,Grene,cgrene21@sohu.com,Non-binary,55910-230,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Platinum
+75,Lolly,Shannon,lshannon22@t-online.de,,37205-719,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+76,Molly,Shiels,,,52533-025,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",81831.0,True,1.0,True,Platinum
+77,Micki,Lathan,mlathan24@booking.com,,65084-441,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+78,Karalynn,Kindon,,,0185-0152,"[{2023-04-01,Telefonía,P-001,2025-03-31}",28463.0,True,0.0,False,
+79,Cornell,Cromwell,ccromwell26@marketwatch.com,Male,49738-272,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+80,Laina,Hannen,lhannen27@icio.us,,0555-0902,"[{2024-24-01,Telefonía,P-001,4000-03-31}",67039.0,True,1.0,True,Bronze
+81,Mattheus,Picard,mpicard28@webnode.com,,62742-4034,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+82,Lucais,Corn,lcorn29@dot.gov,,43857-0049,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+83,Lisabeth,Dengate,ldengate2a@va.gov,Genderqueer,43353-199,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",44963.0,False,0.0,True,Gold
+84,Guillaume,Brettell,gbrettell2b@freewebs.com,,42291-200,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+85,Job,Levington,jlevington2c@google.com,,58118-0371,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,True,
+86,Mindy,Le Pine,mlepine2d@cbc.ca,,0574-0866,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+87,Nelle,Swainger,nswainger2e@seesaa.net,,23155-244,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+88,Nissa,Cleeve,ncleeve2f@aboutads.info,,57844-713,"[{2023-04-01,Telefonía,P-001,2025-03-31}",65478.0,True,0.0,False,
+89,Lynda,De Paoli,ldepaoli2g@washington.edu,,49967-893,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Diamond
+90,Josie,Garman,jgarman2h@cdbaby.com,,55292-911,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Platinum
+91,Aime,Maseres,,Polygender,0363-0831,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+92,Kinsley,Benzie,kbenzie2j@istockphoto.com,,51769-980,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+93,Celie,Martynov,cmartynov2k@google.fr,Female,11523-7306,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+94,Shaina,Rosetti,srosetti2l@hp.com,,43406-0127,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+95,Udale,Scarborough,uscarborough2m@etsy.com,,37808-556,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+96,Conrado,Romagnosi,cromagnosi2n@de.vu,,63029-322,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+97,Annissa,Furmage,afurmage2o@ftc.gov,,10544-215,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+98,Bev,Sothcott,bsothcott2p@patch.com,,14550-512,"[{2023-04-01,Telefonía,P-001,2025-03-31}",52884.0,True,1.0,False,
+99,Petronilla,Skey,pskey2q@imgur.com,,62802-172,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+100,Lindsey,Wimmers,lwimmers2r@list-manage.com,,36987-3335,"[{2023-04-01,Telefonía,P-001,2025-03-31}",39780.0,True,1.0,False,
+101,Fredi,Oriel,foriel2s@bluehost.com,Female,52031-0875,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+102,Glyn,Baxendale,gbaxendale2t@prweb.com,,60905-0010,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",94904.0,False,1.0,True,Silver
+103,Hanson,Yeldham,hyeldham2u@rambler.ru,Male,43063-243,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+104,Donni,Guilloton,dguilloton2v@skype.com,Female,65044-1006,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+105,Panchito,Dorward,pdorward2w@hexun.com,Polygender,66184-115,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+106,Edsel,Daout,edaout2x@google.fr,,49035-173,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+107,Arv,Pogson,apogson2y@parallels.com,,33992-1067,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+108,Carey,Jeffs,cjeffs2z@imdb.com,,49349-065,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+109,Clair,Nanson,cnanson30@angelfire.com,Male,0430-3230,"[{2024-24-01,Telefonía,P-001,4000-03-31}",79970.0,True,1.0,True,Bronze
+110,Ephraim,Todaro,etodaro31@symantec.com,,17156-610,"[{2023-04-01,Telefonía,P-001,2025-03-31}",90971.0,False,1.0,False,
+111,Maudie,Cocks,mcocks32@jigsy.com,,17270-504,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Platinum
+112,Shena,Moodie,,,75854-302,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Gold
+113,Leta,Trowler,ltrowler34@pinterest.com,,0268-0609,"[{2023-04-01,Telefonía,P-001,2025-03-31}",21890.0,True,0.0,False,
+114,Dallas,Arnefield,darnefield35@mlb.com,,0615-7706,3,,False,1.0,True,Bronze
+115,Venus,Pauleit,vpauleit36@nymag.com,,68180-559,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+116,Ardine,Hatherleigh,ahatherleigh37@fema.gov,,58987-001,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+117,Antin,Ingleton,,Male,36987-1560,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+118,Cole,Wallsworth,cwallsworth39@utexas.edu,Male,60429-286,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+119,Dorolice,Loude,dloude3a@google.com.hk,Female,40076-021,"[{2023-04-01,Telefonía,P-001,2025-03-31}",57025.0,False,,False,
+120,Muffin,Rushton,mrushton3b@fda.gov,,63323-652,"[{2023-04-01,Telefonía,P-001,2025-03-31}",96724.0,True,0.0,False,
+121,Timmy,Ghidetti,tghidetti3c@4shared.com,Male,0378-5053,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+122,Delbert,Aguirrezabal,,,55312-550,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+123,Jocelin,Wilmore,jwilmore3e@netscape.com,Female,16729-118,"[{2023-04-01,Telefonía,P-001,2025-03-31}",49758.0,True,0.0,False,
+124,Vallie,Sackey,vsackey3f@rediff.com,,43547-320,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+125,Oberon,Keeves,okeeves3g@facebook.com,,65044-2857,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Silver
+126,Eddy,Midford,emidford3h@booking.com,,54868-5693,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+127,Ki,Lidgely,klidgely3i@dell.com,,0065-0246,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+128,Adria,Alwen,,Female,58668-1991,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Diamond
+129,Gabrila,Grinley,ggrinley3k@latimes.com,,50436-3127,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+130,Larry,Ransley,lransley3l@dailymotion.com,,49035-211,"[{2023-04-01,Telefonía,P-001,2025-03-31}",45526.0,False,1.0,False,
+131,Kendre,Twine,ktwine3m@bing.com,,59075-730,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+132,Boycie,Matthaus,bmatthaus3n@a8.net,Male,41250-417,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+133,Rennie,Myall,rmyall3o@arizona.edu,,36987-2273,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",68789.0,False,0.0,True,Platinum
+134,Gilemette,Drinkeld,gdrinkeld3p@ibm.com,,63833-386,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+135,Robinet,Arthurs,rarthurs3q@trellian.com,Female,10056-705,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+136,Marlee,Mountcastle,mmountcastle3r@ifeng.com,,11523-4335,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Bronze
+137,Buddy,Shedden,bshedden3s@twitpic.com,,44911-0052,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Bronze
+138,Abba,Trubshawe,atrubshawe3t@auda.org.au,,63629-4667,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+139,Booth,Denyagin,bdenyagin3u@facebook.com,Bigender,0173-0837,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Silver
+140,Yul,Piggrem,ypiggrem3v@com.com,,58118-5791,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Bronze
+141,Emlyn,Levington,elevington3w@elpais.com,Male,49738-189,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+142,Christoph,Dows,cdows3x@adobe.com,,54868-4798,"[{2023-04-01,Telefonía,P-001,2025-03-31}",18522.0,True,0.0,False,
+143,Thorndike,Biswell,tbiswell3y@army.mil,Male,58980-409,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+144,Deeyn,Sprankling,dsprankling3z@1und1.de,Female,57955-5984,"[{2023-04-01,Telefonía,P-001,2025-03-31}",28285.0,False,1.0,False,
+145,Russell,Thumann,rthumann40@mail.ru,,34645-5001,"[{2023-04-01,Telefonía,P-001,2025-03-31}",58412.0,True,1.0,False,
+146,Kati,Pyrke,kpyrke41@imgur.com,Female,56062-479,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+147,Calhoun,Breslauer,cbreslauer42@bbc.co.uk,,0378-3512,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Diamond
+148,Amabel,Northing,anorthing43@example.com,Female,27437-109,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Diamond
+149,Gerta,Gaine of England,ggaineofengland44@epa.gov,,51991-630,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+150,Umeko,Blackhurst,ublackhurst45@accuweather.com,,57691-120,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+151,Stevena,Gotch,sgotch46@unicef.org,,43538-101,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+152,Helene,Boobier,hboobier47@dailymotion.com,Female,11822-2004,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",85628.0,False,0.0,True,Gold
+153,Christie,Edmonds,cedmonds48@washingtonpost.com,Male,53808-0808,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",67521.0,False,0.0,True,Platinum
+154,Guillaume,Cromer,gcromer49@sun.com,Polygender,43734-002,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+155,Kris,Gensavage,kgensavage4a@sogou.com,,16252-573,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+156,Iolanthe,Binyon,ibinyon4b@techcrunch.com,,54868-5241,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",96536.0,False,1.0,True,Gold
+157,Diahann,Battabee,dbattabee4c@posterous.com,,52125-211,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+158,Wildon,Dye,wdye4d@japanpost.jp,,43419-322,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Bronze
+159,Ibrahim,Stoffers,istoffers4e@t-online.de,,42367-540,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Silver
+160,Aldus,Hollibone,,,54859-701,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",12593.0,False,1.0,True,Bronze
+161,Leia,Lilywhite,,Female,51079-926,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+162,Urban,Lober,ulober4h@51.la,,62296-0043,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+163,Niki,Newsome,nnewsome4i@joomla.org,Female,67618-150,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+164,Minne,Adair,madair4j@cnbc.com,,37000-326,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+165,Emma,Leah,eleah4k@ocn.ne.jp,Female,51346-210,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,,False,
+166,Lynn,Stutter,,,68428-019,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",39434.0,False,0.0,True,Bronze
+167,Jerome,Newart,jnewart4m@apple.com,,68016-085,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+168,Lars,Aylward,laylward4n@sohu.com,,11026-2639,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Bronze
+169,Dulcine,Writer,dwriter4o@bloglines.com,,59779-798,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",90196.0,False,1.0,True,Bronze
+170,Wilton,von Grollmann,wvongrollmann4p@engadget.com,,10237-708,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",23728.0,False,0.0,True,Gold
+171,Eamon,Yeoman,eyeoman4q@google.ru,Male,65044-3696,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",77688.0,False,0.0,True,Silver
+172,Richmond,Natte,rnatte4r@blogger.com,,52544-959,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Bronze
+173,Sonia,Hubbins,shubbins4s@dailymail.co.uk,,59011-420,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+174,Jacki,Birtchnell,jbirtchnell4t@wisc.edu,Female,36987-1987,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Diamond
+175,Reinaldo,Shakelady,rshakelady4u@wikipedia.org,,36987-2600,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Bronze
+176,Ana,Rendell,arendell4v@dailymail.co.uk,,41167-0093,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",18529.0,False,0.0,True,Gold
+177,Verge,Goulston,vgoulston4w@nytimes.com,,0781-3140,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+178,Bobby,Ferran,bferran4x@businessinsider.com,,54473-206,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+179,Kimberly,Norrington,knorrington4y@apache.org,,43478-902,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+180,Starr,Keymer,skeymer4z@4shared.com,Female,53808-0369,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+181,Amy,Aistrop,aaistrop50@dropbox.com,,25225-022,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Bronze
+182,Marcille,Roncelli,mroncelli51@lulu.com,,42352-8001,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",43436.0,True,0.0,True,Bronze
+183,Meta,Celiz,,,76237-105,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+184,Stevy,Gozzett,sgozzett53@smh.com.au,Male,65044-1946,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+185,Ashleigh,Nono,anono54@addtoany.com,,64764-451,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+186,Lacee,Borer,lborer55@pen.io,,67877-169,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Bronze
+187,Roselin,Grzeszczyk,rgrzeszczyk56@smugmug.com,,51346-226,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+188,Brina,Gallgher,bgallgher57@vinaora.com,,24236-361,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Platinum
+189,Bobine,McNevin,bmcnevin58@hostgator.com,,68788-9521,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+190,Ring,Brisker,rbrisker59@opera.com,Male,63736-211,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+191,Kingsly,Beldom,kbeldom5a@networkadvertising.org,,55312-612,"[{2023-04-01,Telefonía,P-001,2025-03-31}",76622.0,True,1.0,False,
+192,Noemi,Littledike,nlittledike5b@senate.gov,Female,50458-388,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,,True,Bronze
+193,Nadine,Reckhouse,nreckhouse5c@squidoo.com,Female,68788-9920,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+194,Franni,Dobbings,,Female,58232-0030,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Bronze
+195,Aleece,Pitsall,apitsall5e@mail.ru,Genderfluid,65224-557,"[{2023-04-01,Telefonía,P-001,2025-03-31}",90948.0,True,1.0,False,
+196,Cassandre,Matyas,cmatyas5f@bing.com,,52584-484,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Bronze
+197,Elias,Reboul,ereboul5g@xinhuanet.com,,0832-0226,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Bronze
+198,Bethena,McCullum,bmccullum5h@trellian.com,Female,12634-537,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+199,Abbott,Frood,afrood5i@bandcamp.com,Male,49884-746,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+200,Crawford,Powe,cpowe5j@yahoo.com,Male,55154-4991,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+201,Wald,Vasyukov,,,46122-202,"[{2023-04-01,Telefonía,P-001,2025-03-31}",90217.0,True,1.0,False,
+202,Venita,Whittek,vwhittek5l@netlog.com,Female,49999-869,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+203,Newton,Rosenfield,nrosenfield5m@ucla.edu,,22840-0037,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",38806.0,False,0.0,True,Diamond
+204,Rochester,Dymocke,,,35000-834,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+205,Moss,Murray,mmurray5o@goodreads.com,Male,76237-120,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+206,Kylila,Sillick,ksillick5p@edublogs.org,,49999-003,"[{2024-24-01,Telefonía,P-001,4000-03-31}",39766.0,True,1.0,True,Bronze
+207,Tiebout,Wallbanks,twallbanks5q@desdev.cn,,54458-939,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+208,Vick,Attwooll,vattwooll5r@yandex.ru,,41520-475,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,,False,
+209,Filberto,Goodhall,,,63029-010,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+210,Amalia,Lampl,alampl5t@shop-pro.jp,,54575-945,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+211,Kris,Wardel,,Non-binary,62956-0001,"[{2024-24-01,Telefonía,P-001,4000-03-31}",83802.0,False,1.0,True,Bronze
+212,Sam,Glisane,sglisane5v@wunderground.com,Agender,41163-485,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Platinum
+213,Horton,Raunds,hraunds5w@opera.com,Male,0002-8149,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",78002.0,False,1.0,True,Gold
+214,Corrie,Tresvina,ctresvina5x@jugem.jp,,25021-670,"[{2023-04-01,Telefonía,P-001,2025-03-31}",63079.0,False,0.0,False,
+215,Belita,Blackden,bblackden5y@privacy.gov.au,Female,0115-9911,"[{2024-24-01,Telefonía,P-001,4000-03-31}",79385.0,True,1.0,True,Bronze
+216,Cordi,Zavittieri,czavittieri5z@wikispaces.com,,53499-2390,"[{2024-24-01,Telefonía,P-001,4000-03-31}",58394.0,False,1.0,True,Bronze
+217,Edee,Pinck,epinck60@businessweek.com,,53746-272,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Diamond
+218,Belle,Hainge,bhainge61@biblegateway.com,,53389-570,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+219,Hedvig,Partner,hpartner62@webs.com,Female,67457-238,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+220,Farlee,Gidley,fgidley63@berkeley.edu,,49349-559,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+221,Brade,Wallage,bwallage64@lycos.com,,0781-5702,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+222,Ezequiel,Allen,eallen65@slate.com,Male,0713-0536,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+223,Corrie,Wrightson,cwrightson66@bbb.org,Female,52125-457,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+224,Web,Baskeyfield,,,33261-996,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+225,Lynnell,Heinel,lheinel68@tamu.edu,Genderqueer,55315-104,"[{2023-04-01,Telefonía,P-001,2025-03-31}",93020.0,True,0.0,False,
+226,Kimball,Bernt,,Male,49643-382,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+227,Abbot,Mildner,amildner6a@guardian.co.uk,Male,11822-5567,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+228,Quintilla,Tatam,qtatam6b@geocities.com,Genderfluid,0472-0403,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+229,Lorelle,Leys,lleys6c@adobe.com,,63736-586,"[{2023-04-01,Telefonía,P-001,2025-03-31}",32504.0,True,1.0,False,
+230,Cris,Kayzer,,,41520-476,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+231,Daryle,Rudd,drudd6e@columbia.edu,Male,63672-0021,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+232,Saundra,Feron,,,43742-0072,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+233,Ansell,Hayland,ahayland6g@redcross.org,,16590-833,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+234,Rubina,Pulley,rpulley6h@mashable.com,Female,0054-0141,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+235,Vick,Tyrie,vtyrie6i@hubpages.com,Male,24478-210,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,,True,Gold
+236,Errol,Hilldrup,ehilldrup6j@dyndns.org,,49873-803,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Silver
+237,Nadean,Koppes,,Female,54868-4591,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+238,Fabe,Frotton,ffrotton6l@sourceforge.net,,65954-044,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+239,Jephthah,O'Heneghan,joheneghan6m@ycombinator.com,Male,34690-4001,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+240,Hobey,Trowle,htrowle6n@hugedomains.com,Male,54569-0303,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+241,Daron,O'Daly,dodaly6o@themeforest.net,,54575-388,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+242,Lamar,Ingarfield,lingarfield6p@seesaa.net,,52125-938,"[{2024-24-01,Telefonía,P-001,4000-03-31}",29344.0,False,,True,Bronze
+243,Fey,Keener,fkeener6q@squarespace.com,,54458-993,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Platinum
+244,Wilden,Conan,wconan6r@netscape.com,,59762-5030,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,,True,Diamond
+245,Tabitha,Muncaster,tmuncaster6s@samsung.com,,11822-0018,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Platinum
+246,Cull,Hick,chick6t@cloudflare.com,Male,55714-2316,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+247,Manya,Wycherley,mwycherley6u@artisteer.com,,48951-9049,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,,True,Bronze
+248,Tanny,Spraging,tspraging6v@earthlink.net,,67777-001,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+249,Alaster,Vasler,avasler6w@ucoz.com,,0264-9587,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Silver
+250,Bianka,Wincom,bwincom6x@dmoz.org,,49884-213,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+251,Andee,Munehay,amunehay6y@soup.io,,0228-3091,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",15573.0,False,1.0,True,Gold
+252,Hettie,Kellar,hkellar6z@blinklist.com,,,"[{2023-04-01,Telefonía,P-001,2025-03-31}",35926.0,True,1.0,False,
+253,Ida,Blenkiron,,Genderfluid,62011-0247,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,,False,
+254,Garth,Bonefant,,Male,54868-5313,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+255,Shanta,McElvine,smcelvine72@plala.or.jp,Female,57337-020,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+256,Ofelia,Mulheron,omulheron73@mapquest.com,,68462-162,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+257,Zelma,Dumbar,zdumbar74@techcrunch.com,,68021-1001,"[{2023-04-01,Telefonía,P-001,2025-03-31}",88760.0,True,1.0,False,
+258,Giana,Franzonello,gfranzonello75@wikia.com,Female,45861-100,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+259,Friederike,Reinert,,,36987-3362,"[{2024-24-01,Telefonía,P-001,4000-03-31}",97255.0,False,0.0,True,Bronze
+260,Modestine,Roelvink,mroelvink77@pen.io,Female,53389-100,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+261,Barbabas,Spellissy,bspellissy78@chronoengine.com,,67938-1086,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Diamond
+262,Suki,Kleinert,skleinert79@yellowbook.com,,60760-496,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+263,Ali,Speere,aspeere7a@4shared.com,,64205-126,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+264,Liz,Clemerson,lclemerson7b@twitpic.com,,59351-0324,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+265,Emmanuel,Scurman,escurman7c@google.fr,,0049-0520,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+266,Aubert,Morais,amorais7d@wikia.com,Male,0555-0096,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+267,Shanie,Nason,,,50636-003,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+268,Leilah,Damrell,,,35356-173,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+269,Lance,Cassar,lcassar7g@wired.com,,66215-201,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Silver
+270,Serene,Silkstone,ssilkstone7h@harvard.edu,,0078-0539,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+271,Ole,Dougliss,odougliss7i@hud.gov,Male,68180-284,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+272,Marthe,Ickov,mickov7j@canalblog.com,Agender,10544-380,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+273,Elijah,Thormwell,ethormwell7k@princeton.edu,,60681-1075,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,,True,Gold
+274,Randall,Gooch,rgooch7l@blogtalkradio.com,Male,0615-0362,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+275,Niel,Nelthorpe,nnelthorpe7m@cam.ac.uk,Male,63739-325,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+276,Petr,Ahrendsen,pahrendsen7n@surveymonkey.com,,36800-014,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Platinum
+277,Barnabas,Sawdon,bsawdon7o@godaddy.com,Male,24839-343,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+278,Ettie,Kivelle,ekivelle7p@sitemeter.com,,43742-0238,"[{2023-04-01,Telefonía,P-001,2025-03-31}",99451.0,False,1.0,False,
+279,Grantham,Prium,gprium7q@ted.com,Male,63187-107,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+280,Myer,Blewmen,mblewmen7r@devhub.com,Bigender,62211-165,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+281,Gordan,Godley,ggodley7s@symantec.com,,55636-590,"[{2023-04-01,Telefonía,P-001,2025-03-31}",52614.0,False,0.0,False,
+282,Che,Cabrera,ccabrera7t@gnu.org,,53329-819,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",44416.0,False,0.0,True,Diamond
+283,Bearnard,Estcourt,bestcourt7u@mail.ru,,37808-310,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+284,Elke,Lewisham,elewisham7v@homestead.com,Polygender,56062-311,"[{2024-24-01,Telefonía,P-001,4000-03-31}",16717.0,False,0.0,True,Bronze
+285,Franchot,Parrin,fparrin7w@imdb.com,,55312-922,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",45069.0,True,1.0,True,Gold
+286,Bastian,Lossman,blossman7x@chicagotribune.com,,55154-1582,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+287,Rosanna,Brickstock,rbrickstock7y@soup.io,Female,0703-3427,"[{2024-24-01,Telefonía,P-001,4000-03-31}",62940.0,True,0.0,True,Bronze
+288,Marcus,Glendinning,mglendinning7z@va.gov,,49349-732,"[{2023-04-01,Telefonía,P-001,2025-03-31}",90134.0,True,,False,
+289,Chip,O'Doran,codoran80@unc.edu,,36800-238,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+290,Marji,Paladini,mpaladini81@ask.com,Agender,54868-6066,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",26749.0,True,0.0,True,Gold
+291,Adena,Loveard,aloveard82@icio.us,Female,0904-6144,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",52913.0,True,0.0,True,Gold
+292,Cristine,Wickham,cwickham83@apple.com,Agender,0009-0049,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+293,Johan,Skewes,jskewes84@columbia.edu,,61722-090,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+294,Arlan,Emslie,aemslie85@phpbb.com,,49999-830,"[{2023-04-01,Telefonía,P-001,2025-03-31}",80099.0,False,1.0,False,
+295,Joni,Feast,,Female,49349-708,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,,False,
+296,Abba,Caldes,acaldes87@tumblr.com,Genderqueer,68703-112,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+297,Costanza,Kulvear,,,66689-008,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+298,Sherline,Leighfield,sleighfield89@gravatar.com,,55312-321,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+299,Oates,Stair,ostair8a@state.tx.us,Male,0536-5700,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,,True,Silver
+300,Muire,Ainslee,mainslee8b@samsung.com,Female,41520-381,"[{2024-24-01,Telefonía,P-001,4000-03-31}",32054.0,False,0.0,True,Bronze
+301,Jessamine,Rodolfi,,Polygender,37000-343,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+302,Lief,Hemphrey,lhemphrey8d@imageshack.us,Male,29943-004,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",72232.0,False,1.0,True,Platinum
+303,Cyrill,Lindenblatt,clindenblatt8e@cdbaby.com,Male,59212-780,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+304,Tomi,Shorto,tshorto8f@hhs.gov,Female,55154-5325,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+305,Stanton,Leamon,sleamon8g@dailymail.co.uk,,52125-331,"[{2023-04-01,Telefonía,P-001,2025-03-31}",61217.0,True,,False,
+306,Rheba,Proschek,rproschek8h@miibeian.gov.cn,Female,49349-653,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+307,Jenilee,Chinge de Hals,jchingedehals8i@ihg.com,Female,58165-029,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",13832.0,True,1.0,True,Gold
+308,Crin,Kliemchen,,,36800-917,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",86793.0,True,0.0,True,Gold
+309,Tod,Capel,tcapel8k@skype.com,Male,68180-401,"[{2024-24-01,Telefonía,P-001,4000-03-31}",72003.0,True,0.0,True,Bronze
+310,Immanuel,Burgen,iburgen8l@bluehost.com,Male,63868-974,"[{2023-04-01,Telefonía,P-001,2025-03-31}",57591.0,False,0.0,False,
+311,Charlie,Gecke,cgecke8m@themeforest.net,,66467-2150,"[{2023-04-01,Telefonía,P-001,2025-03-31}",17145.0,False,1.0,False,
+312,Schuyler,Benjefield,sbenjefield8n@answers.com,Male,36987-1168,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,,True,Silver
+313,Anette,Muzzi,,,36987-1980,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+314,Levin,Ditch,lditch8p@tmall.com,Male,51367-017,"[{2024-24-01,Telefonía,P-001,4000-03-31}",70568.0,False,,True,Bronze
+315,See,Ferrettino,sferrettino8q@ucoz.ru,,16864-012,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",77058.0,True,1.0,True,Bronze
+316,Ramsey,Iamittii,riamittii8r@samsung.com,Male,63629-3318,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",20570.0,False,1.0,True,Bronze
+317,Tilly,Briamo,tbriamo8s@irs.gov,,63739-459,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+318,Rowena,Pinkney,rpinkney8t@addthis.com,,44567-211,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Platinum
+319,Celestine,Tomanek,ctomanek8u@xing.com,,43742-0190,"[{2023-04-01,Telefonía,P-001,2025-03-31}",42744.0,True,0.0,False,
+320,Birdie,Falcus,,,64778-0373,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Diamond
+321,Rafaela,Pauletti,rpauletti8w@sitemeter.com,Female,60512-6163,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+322,Jereme,Farman,jfarman8x@earthlink.net,,48951-3145,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+323,Karole,Cramb,,,36987-1475,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+324,Marja,Spridgeon,mspridgeon8z@wordpress.com,Female,55154-9553,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Silver
+325,Benoit,Bodle,,,41250-419,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+326,Celestina,Duddy,cduddy91@ifeng.com,Female,11822-0958,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",17617.0,True,1.0,True,Gold
+327,Cornell,Dugood,cdugood92@yelp.com,Male,59779-813,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+328,Gare,Leabeater,gleabeater93@twitpic.com,,50436-7371,"[{2024-24-01,Telefonía,P-001,4000-03-31}",55910.0,False,0.0,True,Bronze
+329,Barnard,Ceschini,bceschini94@msu.edu,Male,41250-571,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+330,Elinore,Marjanski,emarjanski95@twitpic.com,,50410-030,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+331,Dana,De Santos,ddesantos96@free.fr,,65841-730,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+332,Sauveur,Hartop,shartop97@123-reg.co.uk,Male,0832-0910,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+333,Delphine,Kinch,,,21695-318,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+334,Lenee,Phaup,lphaup99@kickstarter.com,Female,55150-158,"[{2023-04-01,Telefonía,P-001,2025-03-31}",87284.0,False,0.0,False,
+335,Barnabas,Bursell,bbursell9a@php.net,,0904-6250,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+336,Carny,Hanshawe,chanshawe9b@gov.uk,,62206-4760,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",27004.0,True,,True,Silver
+337,Hewett,Daniells,,Male,43353-797,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+338,Kerwin,Levey,klevey9d@skype.com,,37808-107,"[{2023-04-01,Telefonía,P-001,2025-03-31}",52712.0,False,1.0,False,
+339,Rafaelita,Krammer,rkrammer9e@a8.net,Female,0781-5422,"[{2023-04-01,Telefonía,P-001,2025-03-31}",22665.0,False,1.0,False,
+340,Sheridan,Maudett,smaudett9f@friendfeed.com,Male,47335-923,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Gold
+341,Rhianna,Panswick,rpanswick9g@kickstarter.com,Female,51532-5301,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+342,Wendeline,Sproson,wsproson9h@msu.edu,,65162-680,"[{2023-04-01,Telefonía,P-001,2025-03-31}",31595.0,False,1.0,False,
+343,Damita,Jewsbury,djewsbury9i@cisco.com,Female,50436-3073,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+344,Lindsey,Manville,lmanville9j@istockphoto.com,Male,0069-0171,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",40424.0,False,1.0,True,Silver
+345,Byran,Bellson,bbellson9k@springer.com,Male,49738-072,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+346,Sybille,Olsson,solsson9l@unesco.org,Female,0268-6221,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+347,Konstanze,Imison,kimison9m@yellowpages.com,,68327-023,"[{2024-24-01,Telefonía,P-001,4000-03-31}",90469.0,True,1.0,True,Bronze
+348,Humfrey,Stirgess,hstirgess9n@vimeo.com,Male,21695-771,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Platinum
+349,Ruy,Stobbes,rstobbes9o@cpanel.net,Male,63354-222,"[{2023-04-01,Telefonía,P-001,2025-03-31}",17710.0,False,0.0,False,
+350,Anallese,Smurthwaite,asmurthwaite9p@google.de,,62670-4164,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+351,Kissiah,Frayn,kfrayn9q@nydailynews.com,,58118-2108,"[{2023-04-01,Telefonía,P-001,2025-03-31}",62151.0,True,1.0,False,
+352,Murray,Benard,mbenard9r@sourceforge.net,,55154-2428,"[{2023-04-01,Telefonía,P-001,2025-03-31}",81926.0,False,1.0,False,
+353,Rhea,Coulton,rcoulton9s@hatena.ne.jp,Female,0615-6589,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+354,Darcy,Brundle,dbrundle9t@godaddy.com,,37205-723,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,,False,
+355,Linn,Awty,lawty9u@java.com,Male,54092-701,"[{2023-04-01,Telefonía,P-001,2025-03-31}",15602.0,True,1.0,False,
+356,Denis,Becarra,dbecarra9v@bbb.org,,13537-169,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Diamond
+357,Zenia,Chilver,zchilver9w@washingtonpost.com,Female,0093-5289,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+358,Shani,Gipps,sgipps9x@indiegogo.com,,63323-196,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+359,Trixie,Tithacott,ttithacott9y@drupal.org,,49873-608,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+360,Elysia,Smogur,esmogur9z@washingtonpost.com,,43474-000,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+361,Ulla,Greengrass,ugreengrassa0@aol.com,,65977-5043,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",65842.0,False,1.0,True,Gold
+362,Farand,Kerman,fkermana1@github.com,,0869-0063,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+363,Sylvester,Arnall,sarnalla2@time.com,,68084-378,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+364,Rycca,Dungate,,Female,67510-0657,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Silver
+365,Iormina,Brothwell,,Female,49348-896,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+366,Sherm,Rotherforth,srotherfortha5@purevolume.com,,31645-176,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+367,Niki,de Keep,ndekeepa6@cnet.com,Female,0615-4544,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+368,Wilfred,Abrahami,wabrahamia7@hao123.com,Male,63517-803,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+369,Benedetto,Boag,bboaga8@mail.ru,,69255-020,"[{2023-04-01,Telefonía,P-001,2025-03-31}",65240.0,False,,False,
+370,Miles,Menci,mmencia9@google.cn,Male,49349-361,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+371,Debbie,Barefoot,dbarefootaa@huffingtonpost.com,,49288-0635,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",65540.0,True,0.0,True,Silver
+372,Ignazio,Franklyn,ifranklynab@abc.net.au,,43078-001,"[{2023-04-01,Telefonía,P-001,2025-03-31}",77736.0,True,1.0,False,
+373,Linn,Van der Krui,,,35356-795,"[{2023-04-01,Telefonía,P-001,2025-03-31}",86039.0,False,1.0,False,
+374,Roderic,Martinovsky,rmartinovskyad@feedburner.com,,0641-0391,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+375,Shermy,Baldick,sbaldickae@discovery.com,,16853-1305,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+376,Miner,Dorgan,mdorganaf@myspace.com,,53041-527,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+377,Leeann,Cotilard,lcotilardag@hhs.gov,,62011-0139,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+378,Marrissa,Marryatt,mmarryattah@imageshack.us,,60258-866,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",39387.0,True,0.0,True,Gold
+379,Maurice,Winger,mwingerai@buzzfeed.com,,51523-016,"[{2023-04-01,Telefonía,P-001,2025-03-31}",80247.0,True,0.0,False,
+380,Shaylyn,Vane,svaneaj@pbs.org,,53329-165,"[{2024-24-01,Telefonía,P-001,4000-03-31}",32972.0,True,1.0,True,Bronze
+381,Taite,Rustidge,trustidgeak@seesaa.net,,0409-3217,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+382,Tobe,De Benedictis,tdebenedictisal@gnu.org,,0052-0316,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+383,Leontine,Strangeway,lstrangewayam@businesswire.com,,49349-043,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+384,Jaquith,Ximenez,jximenezan@icq.com,,66129-510,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+385,Connor,Steed,,,0143-1787,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+386,Althea,Anstee,aansteeap@cornell.edu,,66472-033,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+387,Cordi,Tremathack,ctremathackaq@ask.com,Female,41520-497,"[{2023-04-01,Telefonía,P-001,2025-03-31}",30980.0,True,1.0,False,
+388,Lenee,Mateev,lmateevar@jiathis.com,,61657-0526,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+389,Marten,McGarvey,mmcgarveyas@cpanel.net,Male,68382-097,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+390,Ellswerth,Henricsson,ehenricssonat@youtu.be,,46084-081,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Gold
+391,Josselyn,Trout,jtroutau@bizjournals.com,,43419-864,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",38458.0,False,0.0,True,Gold
+392,Axel,Thynne,athynneav@sbwire.com,Male,68428-017,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,,True,Silver
+393,Mychal,Maypother,mmaypotheraw@hexun.com,,68001-006,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+394,Klement,Rimmington,krimmingtonax@umn.edu,Male,64117-174,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",46631.0,False,0.0,True,Gold
+395,Brynn,Custy,,,54868-6097,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",97897.0,False,0.0,True,Silver
+396,Margery,Montgomery,mmontgomeryaz@purevolume.com,,63941-550,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+397,Elsey,Simmig,esimmigb0@shop-pro.jp,,60709-100,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+398,Matthew,Ferrieres,mferrieresb1@networkadvertising.org,,67046-110,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+399,Brucie,Bispham,,,41900-300,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Platinum
+400,Meagan,MacCardle,mmaccardleb3@themeforest.net,,52959-096,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+401,Frank,Gandy,fgandyb4@sciencedaily.com,Female,52565-012,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+402,Vernor,Tottem,vtottemb5@soup.io,,43846-0016,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,,False,
+403,Giralda,Nice,gniceb6@tuttocitta.it,Female,13925-040,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+404,Ellsworth,Lotte,elotteb7@imdb.com,,0904-5643,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,,True,Gold
+405,Avram,Kliment,aklimentb8@google.co.uk,,0024-2794,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+406,Donny,Babbage,dbabbageb9@sogou.com,,0135-0540,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+407,Saxon,Pauli,spauliba@admin.ch,,0049-0014,"[{2023-04-01,Telefonía,P-001,2025-03-31}",54542.0,False,0.0,False,
+408,Erin,Campkin,ecampkinbb@soup.io,,49884-869,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Gold
+409,Milena,Panas,,,55154-5375,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Silver
+410,Torry,Nutten,tnuttenbd@tumblr.com,Male,48951-3080,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+411,Robbyn,Gourley,rgourleybe@mayoclinic.com,Female,64942-1229,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+412,Mia,Piburn,,,10812-425,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Platinum
+413,Tamarra,Whatley,,,49035-668,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Platinum
+414,Rancell,Mather,rmatherbh@senate.gov,Male,21695-491,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Platinum
+415,Caresse,Berick,cberickbi@ycombinator.com,,37000-603,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+416,Irwinn,Perigo,iperigobj@wired.com,Male,65517-0029,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",47748.0,False,0.0,True,Silver
+417,Ettore,Skydall,eskydallbk@imdb.com,Male,42808-202,"[{2024-24-01,Telefonía,P-001,4000-03-31}",54233.0,False,1.0,True,Bronze
+418,Penrod,Bemand,pbemandbl@meetup.com,,21695-535,"[{2024-24-01,Telefonía,P-001,4000-03-31}",69587.0,True,0.0,True,Bronze
+419,Felice,Saturley,fsaturleybm@seattletimes.com,Male,68747-6033,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+420,Florence,McCrea,fmccreabn@home.pl,Female,54868-6038,"[{2024-24-01,Telefonía,P-001,4000-03-31}",64659.0,False,0.0,True,Bronze
+421,Nelle,Dowell,ndowellbo@over-blog.com,,76329-3304,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+422,Dev,Spelwood,dspelwoodbp@geocities.com,,41163-201,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+423,Perceval,Opy,popybq@cocolog-nifty.com,,68421-5400,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+424,Marina,MacGahey,mmacgaheybr@canalblog.com,,54868-0159,"[{2023-04-01,Telefonía,P-001,2025-03-31}",13954.0,False,1.0,False,
+425,Marielle,Birkhead,mbirkheadbs@furl.net,Female,55714-1503,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+426,Waylon,Werlock,wwerlockbt@oracle.com,Male,49411-050,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+427,Fred,Copper,,Male,36987-3342,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+428,Bale,Tiner,btinerbv@youku.com,,55312-852,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+429,Chrystal,Uren,curenbw@tuttocitta.it,,49349-413,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+430,Leonelle,Sore,lsorebx@nature.com,,0135-0091,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+431,Dalli,Rudeyeard,drudeyeardby@psu.edu,,52125-567,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+432,Enrica,Weightman,eweightmanbz@examiner.com,,43406-0127,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+433,Oliver,Janek,ojanekc0@yandex.ru,,55154-4981,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Gold
+434,Bria,Owens,bowensc1@pen.io,,59021-006,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",17839.0,True,0.0,True,Diamond
+435,Darrelle,Crichley,dcrichleyc2@cbc.ca,,65342-2101,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+436,Merilyn,Robertacci,,,58118-0736,"[{2023-04-01,Telefonía,P-001,2025-03-31}",39304.0,True,,False,
+437,Norine,Barnett,nbarnettc4@toplist.cz,,21130-404,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",57203.0,True,1.0,True,Gold
+438,Klement,Brownbridge,kbrownbridgec5@topsy.com,Male,43419-022,"[{2023-04-01,Telefonía,P-001,2025-03-31}",66157.0,True,,False,
+439,Emmye,Griss,egrissc6@toplist.cz,Female,58265-002,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+440,Francene,Speer,fspeerc7@sogou.com,Female,21695-034,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+441,Kissie,Bussey,kbusseyc8@admin.ch,,65862-536,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,,False,
+442,Pris,Corn,pcornc9@google.it,,10056-061,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+443,Malinda,Dilston,mdilstonca@dell.com,,47335-818,"[{2023-04-01,Telefonía,P-001,2025-03-31}",60157.0,True,1.0,False,
+444,Bobbette,Gibbon,bgibboncb@zdnet.com,Female,55319-939,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+445,Revkah,Bendan,rbendancc@va.gov,,51138-074,"[{2024-24-01,Telefonía,P-001,4000-03-31}",22974.0,False,1.0,True,Bronze
+446,Liz,Dake,ldakecd@shop-pro.jp,,60512-6012,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,,False,
+447,Dillon,Wife,dwifece@oaic.gov.au,,54868-5528,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+448,Alexina,Hollyman,ahollymancf@parallels.com,,0378-3034,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Platinum
+449,Paquito,Lyste,plystecg@storify.com,Male,10742-8120,"[{2023-04-01,Telefonía,P-001,2025-03-31}",30089.0,True,0.0,False,
+450,Dietrich,Girardy,dgirardych@joomla.org,,21695-318,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+451,Deanne,Aishford,daishfordci@usatoday.com,,15127-170,"[{2023-04-01,Telefonía,P-001,2025-03-31}",23236.0,False,0.0,False,
+452,Royce,Klemt,,,53808-0673,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,,False,
+453,Melisent,Albro,malbrock@newyorker.com,,0363-0456,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",64548.0,False,0.0,True,Gold
+454,Julina,Robertsson,jrobertssoncl@dailymail.co.uk,,54868-6241,"[{2023-04-01,Telefonía,P-001,2025-03-31}",24219.0,False,0.0,False,
+455,Lizbeth,Neal,lnealcm@mysql.com,,62756-712,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,,True,Gold
+456,Woodman,Pawelek,wpawelekcn@abc.net.au,,14783-270,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+457,Jo,Phipps,jphippsco@foxnews.com,,41268-358,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+458,Pammi,Philson,pphilsoncp@vkontakte.ru,Female,63868-910,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+459,Benjie,Fiander,,,58668-2711,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+460,Christoforo,Aspy,caspycr@biglobe.ne.jp,Male,50268-050,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+461,Loretta,Eagling,leaglingcs@blogger.com,,42507-866,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+462,Rafaello,Girdler,rgirdlerct@discovery.com,Male,33342-076,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Gold
+463,Casie,Queyos,cqueyoscu@tinypic.com,,59762-3060,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",52245.0,True,0.0,True,Gold
+464,Eryn,Gillease,egilleasecv@so-net.ne.jp,,0603-4382,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Platinum
+465,Charmain,Croote,ccrootecw@abc.net.au,Female,65044-4811,"[{2024-24-01,Telefonía,P-001,4000-03-31}",84144.0,True,0.0,True,Bronze
+466,Annabel,McMarquis,amcmarquiscx@cargocollective.com,,55312-230,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Silver
+467,Trudy,Hindes,,Non-binary,0781-5408,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+468,Lesly,Duetschens,,,13537-547,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Platinum
+469,Lyda,Tewkesberrie,,,36987-2024,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+470,Frances,Carnie,fcarnied1@blinklist.com,,37808-485,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+471,Kass,Bucknall,,Female,0781-9413,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+472,Ellissa,Gartsyde,egartsyded3@naver.com,,46287-015,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+473,Darryl,Toulch,,,55301-442,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+474,Josiah,Busby,jbusbyd5@livejournal.com,,49967-077,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+475,Brigida,Di Bernardo,bdibernardod6@shop-pro.jp,,54365-400,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+476,Adelina,Dowthwaite,adowthwaited7@wikia.com,,21130-133,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+477,Byron,Durrans,bdurransd8@instagram.com,Male,54868-5637,"[{2024-24-01,Telefonía,P-001,4000-03-31}",16349.0,False,0.0,True,Bronze
+478,Grayce,Cellone,,Agender,0179-0028,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+479,Julina,Laherty,jlahertyda@ebay.co.uk,,51285-943,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+480,Corny,Tumilson,,,50730-8316,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",63175.0,True,0.0,True,Gold
+481,Jada,Piddlehinton,jpiddlehintondc@springer.com,,30142-006,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+482,Federico,Ibberson,,,65044-1565,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+483,Henderson,Mathiassen,hmathiassende@godaddy.com,Genderfluid,17312-023,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+484,Dallas,McGown,dmcgowndf@google.com.br,Male,42254-153,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Silver
+485,Lynelle,Derwin,lderwindg@jiathis.com,,65321-025,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+486,Tremain,Boick,tboickdh@tripod.com,,43063-080,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+487,Eleanora,Andrzej,eandrzejdi@nsw.gov.au,Female,49614-439,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+488,Helen-elizabeth,Mattinson,hmattinsondj@live.com,Genderfluid,0573-0556,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Platinum
+489,Amil,Krol,,Female,21695-827,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+490,Malinde,Deacon,mdeacondl@friendfeed.com,Female,49288-0707,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Diamond
+491,Rodge,Yosevitz,ryosevitzdm@vinaora.com,,58411-225,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+492,Kesley,Purdon,kpurdondn@reverbnation.com,,61957-0320,"[{2024-24-01,Telefonía,P-001,4000-03-31}",12696.0,True,1.0,True,Bronze
+493,Brendin,Ochterlony,bochterlonydo@vk.com,Male,0404-5991,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+494,Yance,Ryles,yrylesdp@wikimedia.org,,50383-267,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+495,Velvet,Barling,vbarlingdq@multiply.com,Female,54868-4807,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+496,Ardyce,Couser,acouserdr@unicef.org,,49288-0192,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+497,Kendell,Medway,kmedwayds@surveymonkey.com,Male,30142-065,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+498,Chantal,Banyard,cbanyarddt@indiatimes.com,,76138-111,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+499,Banky,Bridges,bbridgesdu@google.co.jp,Male,65862-165,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+500,Collin,McCrillis,cmccrillisdv@printfriendly.com,Male,49371-017,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",20804.0,True,1.0,True,Diamond
+501,Wendi,Biaggi,wbiaggidw@reverbnation.com,,0187-2050,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,,True,Bronze
+502,Raddie,Goldine,rgoldinedx@tinyurl.com,,63629-4549,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+503,Liva,Fitzsymon,lfitzsymondy@mediafire.com,,62037-676,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+504,Brittni,Waymont,bwaymontdz@amazon.co.uk,,58668-5820,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Diamond
+505,Judas,Lissandri,,Male,0944-2513,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+506,Claudie,Dwire,cdwiree1@microsoft.com,,63323-300,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+507,Wilhelmina,Sehorsch,wsehorsche2@webmd.com,,47682-080,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Platinum
+508,Dickie,Stockbridge,dstockbridgee3@naver.com,Male,51346-143,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+509,Blake,Cornu,bcornue4@meetup.com,Male,51991-293,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+510,Dulcinea,Machon,,Female,0268-6707,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+511,Rachelle,Sloat,rsloate6@slate.com,,0781-1077,"[{2023-04-01,Telefonía,P-001,2025-03-31}",25061.0,True,0.0,False,
+512,Rebekah,Allkins,rallkinse7@desdev.cn,,57955-0002,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+513,Frayda,MacCheyne,fmaccheynee8@ask.com,,17630-2025,"[{2023-04-01,Telefonía,P-001,2025-03-31}",23370.0,True,0.0,False,
+514,Chrotoem,Bowell,cbowelle9@delicious.com,Male,24987-382,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+515,Ralf,Maciaszek,rmaciaszekea@cnbc.com,Male,58407-125,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+516,Thane,Mulheron,,Male,42291-710,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+517,Keri,Wight,kwightec@youku.com,,36987-2449,"[{2024-24-01,Telefonía,P-001,4000-03-31}",23753.0,False,1.0,True,Bronze
+518,Elysia,Rouff,erouffed@unicef.org,,61657-0956,"[{2023-04-01,Telefonía,P-001,2025-03-31}",53742.0,True,1.0,False,
+519,Rudd,Besnardeau,rbesnardeauee@mail.ru,,51060-017,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+520,Cobb,Lilburne,clilburneef@typepad.com,Male,50436-0133,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+521,Cletis,Raynard,craynardeg@wikispaces.com,Male,35000-873,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+522,Nadean,Beatey,nbeateyeh@geocities.jp,Female,68698-001,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+523,Patricia,Noden,pnodenei@de.vu,,54569-2376,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+524,Wilt,Enever,weneverej@artisteer.com,,24385-165,"[{2023-04-01,Telefonía,P-001,2025-03-31}",41745.0,True,1.0,False,
+525,Nefen,Matyushkin,nmatyushkinek@aboutads.info,Male,67718-941,"[{2023-04-01,Telefonía,P-001,2025-03-31}",71863.0,True,0.0,False,
+526,Benito,Children,bchildrenel@hubpages.com,Male,11822-0899,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,,True,Gold
+527,Sande,Wagerfield,swagerfieldem@dropbox.com,,65044-2052,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+528,Elvyn,McDowall,emcdowallen@ox.ac.uk,,47632-0025,"[{2023-04-01,Telefonía,P-001,2025-03-31}",51091.0,True,1.0,False,
+529,Toma,Izaac,tizaaceo@webmd.com,Female,64117-529,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,,True,Bronze
+530,Candace,Beachem,cbeachemep@princeton.edu,Female,54868-4892,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+531,Anatollo,Hancorn,ahancorneq@cnet.com,Male,25021-110,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Platinum
+532,Wildon,Rivelon,wriveloner@foxnews.com,,66116-300,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+533,Hyacinth,Helmke,,Female,0378-6614,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+534,Phaedra,Rigge,priggeet@berkeley.edu,,0093-7258,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Diamond
+535,Web,Rannie,wrannieeu@cnbc.com,,54868-1195,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+536,Mada,Steade,,,0456-0458,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+537,Crystie,Hackworth,chackworthew@typepad.com,Female,24488-004,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Platinum
+538,Gianina,Cleen,gcleenex@mapy.cz,,49035-023,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Platinum
+539,Jaymie,Aymeric,jaymericey@imageshack.us,,42254-144,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",76255.0,True,,True,Platinum
+540,Rodie,Sandyford,,Female,61722-006,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+541,Claretta,Leinweber,cleinweberf0@uiuc.edu,,0113-0271,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+542,Neda,Senchenko,nsenchenkof1@bravesites.com,,30014-103,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+543,Gregor,Waltho,gwalthof2@uiuc.edu,,35000-711,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+544,Sandro,Keyworth,skeyworthf3@google.fr,Non-binary,0093-4150,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Silver
+545,Stafani,Seacroft,sseacroftf4@whitehouse.gov,,36987-2462,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Silver
+546,Allen,McKirdy,amckirdyf5@addtoany.com,,0548-3013,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+547,Melva,Hatherleigh,mhatherleighf6@live.com,,0363-0350,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+548,Dell,Vell,dvellf7@shinystat.com,,0187-5269,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+549,Far,Rawlins,frawlinsf8@guardian.co.uk,Polygender,49483-381,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Silver
+550,Joanne,Laidel,jlaidelf9@mysql.com,,41520-296,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+551,Carissa,Volette,cvolettefa@hugedomains.com,,57691-096,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+552,Buiron,Brussell,bbrussellfb@prlog.org,,61657-0965,"[{2024-24-01,Telefonía,P-001,4000-03-31}",42757.0,True,0.0,True,Bronze
+553,Laurel,Saint,lsaintfc@amazon.co.uk,Female,63481-818,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+554,Saundra,Brownsey,sbrownseyfd@blinklist.com,,0115-1245,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+555,Willdon,Weddup,wweddupfe@youku.com,,15127-010,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Platinun
+556,Callean,Friedenbach,cfriedenbachff@networkadvertising.org,,56104-116,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+557,Germayne,Raubenheim,,Polygender,60429-101,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Platinun
+558,Nick,Gilbard,ngilbardfh@simplemachines.org,Male,16714-621,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,,True,Platinun
+559,Nollie,Legerwood,,,48951-9029,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",64649.0,True,1.0,True,Silver
+560,Heywood,Jacobsz,hjacobszfj@ca.gov,Male,52544-076,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+561,Melvyn,Pennycord,mpennycordfk@un.org,Male,50268-686,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+562,Natka,Triswell,,Bigender,52533-006,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+563,Vergil,Janeway,vjanewayfm@harvard.edu,Male,58668-2041,"[{2023-04-01,Telefonía,P-001,2025-03-31}",77116.0,True,1.0,False,
+564,Arlan,Tippell,atippellfn@un.org,,76162-102,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+565,Reilly,Adenet,radenetfo@chron.com,Non-binary,24090-495,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+566,Cam,Claige,cclaigefp@cdc.gov,,0440-8055,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+567,Enrichetta,Maunder,emaunderfq@state.gov,,0268-0027,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+568,Murial,McCorrie,mmccorriefr@nih.gov,Female,55550-001,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",67716.0,True,0.0,True,Diamond
+569,Alisa,Matterface,amatterfacefs@reference.com,Female,13734-124,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+570,Kenny,Manders,kmandersft@independent.co.uk,,60505-2527,"[{2023-04-01,Telefonía,P-001,2025-03-31}",56810.0,True,0.0,False,
+571,Torie,Kielt,tkieltfu@google.co.uk,,50436-4032,"[{2023-04-01,Telefonía,P-001,2025-03-31}",25749.0,False,1.0,False,
+572,Pavel,Poinsett,ppoinsettfv@mashable.com,Male,49852-001,"[{2023-04-01,Telefonía,P-001,2025-03-31}",83911.0,False,1.0,False,
+573,Minerva,Langford,mlangfordfw@mashable.com,Female,0409-2346,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+574,Claus,Arkil,carkilfx@cam.ac.uk,Male,54575-185,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+575,Trude,Ashwood,tashwoodfy@china.com.cn,,0781-5939,"[{2024-24-01,Telefonía,P-001,4000-03-31}",77012.0,False,1.0,True,Bronze
+576,Tybalt,Geely,tgeelyfz@princeton.edu,Male,0264-7636,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",56238.0,False,1.0,True,Gold
+577,Zorine,Skures,zskuresg0@last.fm,,55289-298,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+578,Elle,Hew,ehewg1@shareasale.com,,48951-1153,"[{2023-04-01,Telefonía,P-001,2025-03-31}",18697.0,True,1.0,False,
+579,Thurstan,Jarad,tjaradg2@imgur.com,Male,52125-590,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",98160.0,True,0.0,True,Gold
+580,Corney,Waltering,cwalteringg3@reference.com,,42669-002,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+581,Querida,Manhare,,,24236-577,"[{2023-04-01,Telefonía,P-001,2025-03-31}",30050.0,True,0.0,False,
+582,Freeman,Pinckney,fpinckneyg5@yellowbook.com,,53807-523,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+583,Chester,Skivington,cskivingtong6@netlog.com,,0378-0407,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+584,Noach,Pennini,npenninig7@123-reg.co.uk,Male,63304-313,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",80088.0,False,1.0,True,Gold
+585,Filberte,Crux,fcruxg8@netlog.com,Non-binary,11716-0102,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+586,Boigie,Schruyer,,Male,54473-235,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Silver
+587,Lauraine,Linnit,llinnitga@jigsy.com,,61010-2111,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+588,Gasper,Whittington,gwhittingtongb@admin.ch,,55111-647,"[{2023-04-01,Telefonía,P-001,2025-03-31}",18095.0,False,1.0,False,
+589,Eudora,Hartshorn,ehartshorngc@i2i.jp,Female,16590-217,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+590,Lorita,Longo,llongogd@smugmug.com,,0703-9032,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+591,Eunice,Huggin,ehugginge@hubpages.com,,54868-3854,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+592,Mickie,Croser,,Female,49738-982,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+593,Ferrel,Bosence,fbosencegg@yellowpages.com,,13107-058,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+594,Ronnie,Sautter,rsauttergh@yelp.com,,37000-135,"[{2023-04-01,Telefonía,P-001,2025-03-31}",45634.0,True,0.0,False,
+595,Jenelle,Doulden,jdouldengi@rakuten.co.jp,,36987-2394,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+596,Ayn,Dyer,,Female,0220-9046,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Platinum
+597,Gunter,Ogers,gogersgk@sogou.com,Male,23155-217,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+598,Morganne,Jarley,mjarleygl@paginegialle.it,Female,54868-5392,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+599,Carissa,Napthine,cnapthinegm@miibeian.gov.cn,,0049-0056,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",55694.0,False,1.0,True,Gold
+600,Conn,Litel,,,51531-2825,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+601,Mike,Jowsey,mjowseygo@deviantart.com,,53808-0617,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+602,Fanni,Swalwell,,Female,0135-0485,"[{2024-24-01,Telefonía,P-001,4000-03-31}",36490.0,True,0.0,True,Bronze
+603,Katlin,Holyland,kholylandgq@accuweather.com,Female,51668-201,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+604,Chrissie,Olsson,colssongr@ezinearticles.com,Male,36987-1269,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+605,Caspar,Revan,crevangs@linkedin.com,Male,10006-009,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+606,Nydia,Stanbro,nstanbrogt@tinyurl.com,Female,0781-3132,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,,False,
+607,Tina,Tice,,,51811-362,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+608,Joann,Baudesson,jbaudessongv@wordpress.org,,64720-139,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+609,Lydia,Matzke,lmatzkegw@symantec.com,Female,0781-3206,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+610,Augustine,Pencot,,Female,68169-0129,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",75281.0,False,1.0,True,Silver
+611,Violante,Rubenchik,vrubenchikgy@feedburner.com,,0019-9888,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+612,Trey,Savine,tsavinegz@github.io,,67046-156,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+613,Gannie,MacFarland,gmacfarlandh0@google.co.jp,,43857-0054,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+614,Anderea,Harken,,Non-binary,60505-3527,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+615,Bellina,Stoddard,bstoddardh2@jugem.jp,Female,53104-0111,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+616,Clari,McGlade,cmcgladeh3@naver.com,Female,64725-0624,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+617,Audie,Steane,asteaneh4@guardian.co.uk,,64942-1309,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+618,Neal,Bertomier,nbertomierh5@spiegel.de,,59663-140,"[{2023-04-01,Telefonía,P-001,2025-03-31}",85921.0,False,1.0,False,
+619,Gordan,Forsdyke,,,37012-588,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+620,Sonnie,Bambridge,sbambridgeh7@163.com,,61715-064,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+621,Leon,O'Sesnane,losesnaneh8@twitter.com,,55566-5060,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+622,Mariska,Arling,marlingh9@cafepress.com,,51672-2003,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+623,Mose,Kitt,mkittha@about.me,,50988-290,"[{2023-04-01,Telefonía,P-001,2025-03-31}",70987.0,False,0.0,False,
+624,Tuckie,Tregenna,ttregennahb@wordpress.org,Male,14783-201,"[{2023-04-01,Telefonía,P-001,2025-03-31}",94947.0,False,0.0,False,
+625,Corena,Jennins,cjenninshc@mediafire.com,Female,48951-8250,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+626,Court,Yurukhin,,Male,0172-4097,"[{2023-04-01,Telefonía,P-001,2025-03-31}",30584.0,False,0.0,False,
+627,Ambros,Sigward,,,0023-9211,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",62663.0,True,0.0,True,Gold
+628,Kara-lynn,Keggin,kkegginhf@odnoklassniki.ru,Female,37000-686,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+629,Gawain,Brinson,,,48951-4065,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+630,Kinnie,McKearnen,kmckearnenhh@who.int,,13630-0045,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Diamond
+631,Frazier,Redhead,fredheadhi@nsw.gov.au,,36987-1865,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Platinum
+632,Chas,Rishworth,crishworthhj@arizona.edu,,49288-0281,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+633,Ariel,Edgeley,aedgeleyhk@virginia.edu,Male,53208-494,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+634,Neils,Pulteneye,npulteneyehl@multiply.com,Agender,55239-001,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+635,Turner,Cardillo,tcardillohm@deviantart.com,,0409-7714,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+636,Shanta,Boman,sbomanhn@photobucket.com,Female,35573-200,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+637,Melamie,Legging,mleggingho@google.ca,,55566-7185,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,,True,Platinum
+638,Frederich,Lamers,,Male,43063-290,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+639,Adrianna,McNirlan,,,55346-0411,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+640,Ilise,Rowlatt,irowlatthr@dropbox.com,,49288-0255,"[{2023-04-01,Telefonía,P-001,2025-03-31}",34595.0,False,1.0,False,
+641,Melvyn,Revie,mreviehs@blogs.com,,21130-036,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+642,Celesta,Hoovart,choovartht@census.gov,,54868-5243,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,,False,
+643,Cozmo,Hardan,,Male,55154-1583,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",25570.0,True,0.0,True,Diamond
+644,Cordelia,Peyntue,cpeyntuehv@amazon.de,,50353-102,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Gold
+645,Johnathon,Opy,jopyhw@zimbio.com,Male,49288-0030,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+646,Arnie,Perel,aperelhx@wiley.com,,0942-6461,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+647,Dell,Deans,ddeanshy@bbc.co.uk,,65643-166,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+648,Jilleen,Greguoli,,,67296-0560,"[{2023-04-01,Telefonía,P-001,2025-03-31}",66539.0,True,0.0,False,
+649,Jarad,Whardley,jwhardleyi0@marriott.com,,36987-1036,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",68380.0,False,,True,Gold
+650,Woodman,Mullord,wmullordi1@prlog.org,Male,64942-1331,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+651,Daryle,McKean,dmckeani2@myspace.com,,66116-444,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",67667.0,True,0.0,True,Gold
+652,Bertie,Spencer,bspenceri3@domainmarket.com,Agender,55714-4531,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+653,Dolli,Penkman,dpenkmani4@amazon.co.uk,,30014-104,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+654,Marsha,Greswell,mgreswelli5@gizmodo.com,,55312-839,"[{2023-04-01,Telefonía,P-001,2025-03-31}",30336.0,True,0.0,False,
+655,Sherm,Koche,skochei6@google.com.br,Male,63868-097,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+656,Nara,Yushankin,nyushankini7@stanford.edu,,68828-101,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+657,Dredi,Eakeley,deakeleyi8@redcross.org,,36800-461,"[{2024-24-01,Telefonía,P-001,4000-03-31}",65966.0,True,1.0,True,Bronze
+658,Brittany,Landeaux,blandeauxi9@bravesites.com,,53270-3100,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+659,Norrie,Snalom,nsnalomia@fc2.com,,55154-2888,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+660,Evita,McLaverty,,,64725-1021,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+661,Stuart,Tersay,,,0615-5537,"[{2023-04-01,Telefonía,P-001,2025-03-31}",36252.0,False,1.0,False,
+662,Hyman,Pikesley,hpikesleyid@mit.edu,Male,58118-2279,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Silver
+663,Alaster,Conquest,aconquestie@ftc.gov,Male,68151-5652,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+664,Morna,Scogin,,,10202-490,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+665,Gilberto,Popplestone,gpopplestoneig@simplemachines.org,,57691-226,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+666,Sean,Timmis,stimmisih@icq.com,,36987-1076,"[{2024-24-01,Telefonía,P-001,4000-03-31}",73629.0,False,0.0,True,Bronze
+667,Galen,Hay,ghayii@naver.com,,60512-6478,"[{2023-04-01,Telefonía,P-001,2025-03-31}",37461.0,False,1.0,False,
+668,Karrah,Cawthera,,Female,62670-4404,"[{2023-04-01,Telefonía,P-001,2025-03-31}",82471.0,False,0.0,False,
+669,Worden,Berrane,wberraneik@taobao.com,,64679-992,"[{2023-04-01,Telefonía,P-001,2025-03-31}",35215.0,False,0.0,False,
+670,Shannah,Brickner,sbrickneril@weather.com,,55154-5035,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+671,Tadd,Creus,tcreusim@umich.edu,Genderfluid,61601-1122,"[{2024-24-01,Telefonía,P-001,4000-03-31}",58450.0,False,1.0,True,Bronze
+672,Marya,Lashmar,mlashmarin@ucoz.ru,Female,0603-1008,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+673,Zachery,Ronisch,zronischio@apache.org,Male,52959-596,"[{2023-04-01,Telefonía,P-001,2025-03-31}",41301.0,False,1.0,False,
+674,Guntar,Farreil,gfarreilip@tinypic.com,Genderfluid,0168-0332,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+675,Venus,Pardue,vpardueiq@furl.net,,64092-113,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",52434.0,True,1.0,True,Gold
+676,Sara-ann,Boomes,,Female,64117-257,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",88979.0,False,0.0,True,Gold
+677,Atalanta,Worboys,,,58118-0658,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+678,Early,Allon,eallonit@thetimes.co.uk,Male,52125-642,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Gold
+679,Leupold,Reidie,lreidieiu@huffingtonpost.com,,65162-522,"[{2024-24-01,Telefonía,P-001,4000-03-31}",53557.0,True,1.0,True,Bronze
+680,Aurelie,Keeler,akeeleriv@blogs.com,Female,50436-9946,"[{2024-24-01,Telefonía,P-001,4000-03-31}",49250.0,False,1.0,True,Bronze
+681,Aldridge,Bordiss,abordissiw@admin.ch,Genderfluid,0517-7610,"[{2023-04-01,Telefonía,P-001,2025-03-31}",51541.0,True,0.0,False,
+682,Janek,Veque,jvequeix@forbes.com,,43857-0156,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",86427.0,True,0.0,True,Diamond
+683,Noelle,Springer,nspringeriy@dagondesign.com,,0179-0095,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+684,Gladi,Reynish,,Female,51514-0325,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+685,Normand,Fairburne,nfairburnej0@amazon.co.jp,,51079-991,"[{2023-04-01,Telefonía,P-001,2025-03-31}",69870.0,False,1.0,False,
+686,Ag,Camble,acamblej1@sphinn.com,Female,13537-516,"[{2024-24-01,Telefonía,P-001,4000-03-31}",31921.0,True,1.0,True,Bronze
+687,Farrell,Dahlgren,,Male,55316-906,"[{2024-24-01,Telefonía,P-001,4000-03-31}",79686.0,True,0.0,True,Bronze
+688,Vikky,Brummell,vbrummellj3@etsy.com,Female,98132-184,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",50901.0,False,0.0,True,Gold
+689,Modestia,Sutehall,,,62175-154,"[{2024-24-01,Telefonía,P-001,4000-03-31}",52958.0,True,0.0,True,Bronze
+690,Iggy,Rowcliffe,irowcliffej5@elegantthemes.com,Male,0378-0199,"[{2024-24-01,Telefonía,P-001,4000-03-31}",77454.0,True,0.0,True,Bronze
+691,Dorrie,Straine,dstrainej6@soup.io,,66949-607,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+692,Benjie,Rolingson,brolingsonj7@nhs.uk,Male,54868-6083,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+693,Illa,Costar,icostarj8@weebly.com,,51660-905,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+694,Merrilee,Portchmouth,mportchmouthj9@prnewswire.com,,0268-3055,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+695,Greta,Carrodus,gcarrodusja@cdbaby.com,Female,49349-842,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+696,Valeda,Gabbitus,,,68599-2306,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+697,Ramsay,Bocke,rbockejc@auda.org.au,,63941-281,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",36469.0,True,0.0,True,Platinum
+698,Milka,Lawes,mlawesjd@nifty.com,,0378-1110,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+699,Iorgo,Elbourne,ielbourneje@friendfeed.com,Male,54575-406,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+700,Mariam,Fison,mfisonjf@fc2.com,Female,55111-720,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+701,Giuseppe,Napolitano,gnapolitanojg@statcounter.com,Male,55154-9657,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+702,Ginny,Perse,gpersejh@ow.ly,Female,61941-1002,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+703,Roy,Brodhead,rbrodheadji@wunderground.com,,17478-327,"[{2024-24-01,Telefonía,P-001,4000-03-31}",63903.0,True,1.0,True,Bronze
+704,Teddi,Christene,,,75936-117,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+705,Fernande,Bard,fbardjk@smugmug.com,,28107-006,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+706,Levi,Scurfield,lscurfieldjl@shop-pro.jp,,0268-1082,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+707,Jeremie,Ringe,jringejm@patch.com,Male,0185-5368,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Silver
+708,Yulma,Rea,,,76405-010,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+709,Deedee,Wichard,dwichardjo@ebay.co.uk,Female,52959-534,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+710,Creighton,Searles,,Male,58668-6150,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+711,Roscoe,Luciano,,Male,0093-5861,"[{2024-24-01,Telefonía,P-001,4000-03-31}",84144.0,True,1.0,True,Bronze
+712,Quintina,Stollsteimer,qstollsteimerjr@cocolog-nifty.com,Female,59115-057,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+713,Phoebe,Pinniger,ppinnigerjs@a8.net,,0430-0540,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",28102.0,True,0.0,True,Gold
+714,Simonne,Yakubovich,syakubovichjt@state.tx.us,,66490-690,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Gold
+715,Ileane,Spat,ispatju@seesaa.net,Female,65121-003,"[{2024-24-01,Telefonía,P-001,4000-03-31}",91834.0,False,0.0,True,Bronze
+716,Helena,Yezafovich,hyezafovichjv@cdbaby.com,,49884-321,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+717,Fields,McLice,fmclicejw@time.com,,68391-267,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+718,Shaine,Fairbrass,sfairbrassjx@shop-pro.jp,Female,24385-039,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+719,Bernetta,Dudhill,bdudhilljy@paypal.com,,55312-020,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+720,Mozes,Labuschagne,mlabuschagnejz@hibu.com,,42254-118,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+721,Janifer,Mc Gorley,jmcgorleyk0@over-blog.com,,54868-2762,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+722,Samaria,Cupitt,scupittk1@apache.org,Genderqueer,62742-4049,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+723,Rudd,Trueman,,,54868-3550,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",44575.0,True,1.0,True,Gold
+724,Gretal,Probbings,gprobbingsk3@oaic.gov.au,,65517-1005,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+725,Rory,Haslewood,rhaslewoodk4@xing.com,Male,57520-0758,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Platinum
+726,Denyse,Crannis,dcrannisk5@latimes.com,,68703-115,"[{2023-04-01,Telefonía,P-001,2025-03-31}",49020.0,False,1.0,False,
+727,Jed,Di Matteo,jdimatteok6@wisc.edu,,0378-2402,"[{2024-24-01,Telefonía,P-001,4000-03-31}",60283.0,False,1.0,True,Bronze
+728,Leandra,Jerram,ljerramk7@elegantthemes.com,Female,0615-3593,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+729,Nils,Westrey,nwestreyk8@aol.com,Male,50458-590,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+730,Agustin,Edsell,aedsellk9@chronoengine.com,Male,0378-7970,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Diamond
+731,Henry,Walkingshaw,,,49580-0158,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+732,Duffie,Gower,dgowerkb@ifeng.com,,53808-0720,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+733,Dominic,Pollen,dpollenkc@fc2.com,Male,49922-001,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+734,Aleda,Waiting,awaitingkd@ustream.tv,Female,0186-5020,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+735,Brennan,Harradine,bharradineke@csmonitor.com,Male,76237-240,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+736,Luelle,Kelwaybamber,lkelwaybamberkf@alexa.com,,55154-5867,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+737,Darsey,Gawthorpe,,,63868-244,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+738,Gardener,Enderwick,genderwickkh@tumblr.com,Male,41163-470,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+739,Eliza,Ruusa,eruusaki@purevolume.com,Female,63941-035,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+740,Sammy,Lorimer,,,47682-019,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+741,Felita,Rainard,frainardkk@cargocollective.com,,67938-0967,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+742,Gaspard,Morilla,gmorillakl@marketwatch.com,,16571-201,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+743,Noah,Simper,nsimperkm@apple.com,Male,0904-5068,"[{2024-24-01,Telefonía,P-001,4000-03-31}",81598.0,True,,True,Bronze
+744,Felecia,Pringell,fpringellkn@washington.edu,,68084-419,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+745,Adey,Gonneau,agonneauko@xing.com,,0603-4991,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Platinum
+746,Lezley,Isenor,lisenorkp@businessweek.com,Male,57520-0412,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Diamond
+747,Kerrin,Puzey,kpuzeykq@weebly.com,,16590-293,"[{2023-04-01,Telefonía,P-001,2025-03-31}",61700.0,True,0.0,False,
+748,Katey,Woodcraft,,,0904-7914,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+749,Lek,Merrgan,lmerrganks@berkeley.edu,Male,0228-2667,"[{2024-24-01,Telefonía,P-001,4000-03-31}",17153.0,False,1.0,True,Bronze
+750,Evaleen,Saunper,esaunperkt@rediff.com,,54868-6206,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+751,Heinrick,Banasiak,hbanasiakku@mozilla.org,,68745-1026,"[{2024-24-01,Telefonía,P-001,4000-03-31}",54412.0,False,1.0,True,Bronze
+752,Ebony,Bentsen,ebentsenkv@quantcast.com,Female,36987-3046,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+753,Arther,McVie,amcviekw@istockphoto.com,,0781-3314,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+754,Grace,Jenman,,Male,52054-550,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+755,Shelden,Feben,sfebenky@google.cn,Male,59078-011,"[{2023-04-01,Telefonía,P-001,2025-03-31}",82525.0,True,1.0,False,
+756,Darb,Bwy,dbwykz@mozilla.com,,63629-4642,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+757,Torrie,Vuitton,tvuittonl0@ft.com,,36000-283,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+758,Tami,Meakin,tmeakinl1@abc.net.au,,54868-5935,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+759,Anthony,Odby,aodbyl2@mac.com,Male,61941-0224,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+760,Beniamino,Poynor,bpoynorl3@irs.gov,,42291-144,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+761,Cris,Bonin,cboninl4@purevolume.com,,0067-8115,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+762,Lionel,Fieldhouse,lfieldhousel5@baidu.com,Male,53210-1004,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,,False,
+763,Pippo,Eddowis,peddowisl6@fotki.com,,21695-939,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+764,Sandor,O'Boyle,soboylel7@mediafire.com,Male,42602-002,"[{2024-24-01,Telefonía,P-001,4000-03-31}",63240.0,True,,True,Bronze
+765,Sayre,Jordanson,,,43857-0113,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+766,Bertrando,Ridett,bridettl9@smugmug.com,,55315-393,"[{2024-24-01,Telefonía,P-001,4000-03-31}",87070.0,False,0.0,True,Bronze
+767,Lyssa,Orro,lorrola@ycombinator.com,Female,52959-195,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+768,Elisabeth,O'Calleran,eocalleranlb@google.pl,,58232-0742,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+769,Ardyth,Beeres,abeereslc@blogs.com,,48878-3100,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+770,Skippy,Frood,sfroodld@jugem.jp,,62175-580,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Diamond
+771,Ralph,Mecco,rmeccole@nps.gov,,36987-3109,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+772,Pepito,Hailston,phailstonlf@ebay.com,Male,37808-498,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+773,Tod,Richie,,,65121-001,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",16983.0,False,0.0,True,Platinum
+774,Silva,Kennington,skenningtonlh@vinaora.com,Female,24236-625,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+775,Obidiah,Bassom,obassomli@flavors.me,Male,55714-8014,"[{2023-04-01,Telefonía,P-001,2025-03-31}",11950.0,True,1.0,False,
+776,Roxy,Kyffin,rkyffinlj@usnews.com,,46122-208,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+777,Leopold,Cooksley,lcooksleylk@e-recht24.de,,53808-0367,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+778,Myra,Mosedall,,,65841-069,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+779,Donny,Rennenbach,drennenbachlm@ameblo.jp,Male,36987-1669,"[{2024-24-01,Telefonía,P-001,4000-03-31}",17166.0,False,0.0,True,Bronze
+780,Barbee,Norquoy,bnorquoyln@hugedomains.com,Genderqueer,55154-5653,"[{2023-04-01,Telefonía,P-001,2025-03-31}",39652.0,True,0.0,False,
+781,Guthrey,Towersey,gtowerseylo@amazon.de,Agender,0126-0027,"[{2023-04-01,Telefonía,P-001,2025-03-31}",87585.0,True,1.0,False,
+782,Rubina,Jeff,,,55648-926,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+783,Alexandr,Fishly,afishlylq@ihg.com,,43269-810,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+784,Sorcha,O'Suaird,sosuairdlr@sciencedirect.com,,43455-0008,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+785,Sharron,Spykings,sspykingsls@1und1.de,,43269-882,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",29605.0,True,1.0,True,Gold
+786,Zsa zsa,Lukins,zlukinslt@scribd.com,Female,61715-131,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+787,Laurette,Platts,lplattslu@163.com,,42794-086,"[{2023-04-01,Telefonía,P-001,2025-03-31}",47830.0,True,1.0,False,
+788,Della,Weagener,dweagenerlv@forbes.com,Female,65044-4813,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",73602.0,False,0.0,True,Gold
+789,Courtenay,Hutson,chutsonlw@booking.com,Female,0025-1821,"[{2023-04-01,Telefonía,P-001,2025-03-31}",93605.0,True,1.0,False,
+790,Ramsay,Borkett,rborkettlx@dell.com,,0781-5786,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+791,Randolf,Klausewitz,rklausewitzly@biblegateway.com,Male,64980-181,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+792,Gusta,Poinsett,gpoinsettlz@tumblr.com,Female,58118-0465,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+793,Fannie,Harry,fharrym0@redcross.org,Female,0363-0335,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+794,Dido,Rubrow,drubrowm1@opera.com,,0832-1212,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Platinum
+795,Hermy,Venton,hventonm2@uiuc.edu,Male,57520-0624,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",46972.0,True,1.0,True,Platinum
+796,Kimberlyn,Kier,kkierm3@reddit.com,,49035-449,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+797,Klarika,Richardson,krichardsonm4@facebook.com,,24477-041,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Diamond
+798,Dionne,Szapiro,dszapirom5@addthis.com,,0078-0566,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+799,Culley,Fullalove,cfullalovem6@exblog.jp,Male,55154-8297,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+800,Roland,Knivett,rknivettm7@webnode.com,,61748-400,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+801,Cinderella,Thody,,,57955-5151,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+802,Bernard,Wigan,bwiganm9@indiegogo.com,,52125-585,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",29435.0,False,0.0,True,Bronze
+803,Tabb,Rome,tromema@amazon.co.uk,Male,50845-0084,"[{2024-24-01,Telefonía,P-001,4000-03-31}",21934.0,True,1.0,True,Bronze
+804,Nathanil,Chesman,nchesmanmb@1688.com,,54473-251,"[{2023-04-01,Telefonía,P-001,2025-03-31}",86326.0,False,0.0,False,
+805,Raynor,Sands-Allan,rsandsallanmc@nhs.uk,Male,65044-3203,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Diamond
+806,Belinda,Mandrier,bmandriermd@mashable.com,,49349-180,"[{2023-04-01,Telefonía,P-001,2025-03-31}",67505.0,False,0.0,False,
+807,Tallulah,Rubinchik,trubinchikme@nbcnews.com,,63629-1335,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+808,Ford,Wrassell,,,52125-003,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Platinum
+809,Jere,Filip,jfilipmg@ocn.ne.jp,,24987-087,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",33418.0,True,0.0,True,Silver
+810,Goober,Craft,gcraftmh@google.co.uk,,64578-0103,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+811,Gerry,Leil,gleilmi@deliciousdays.com,,49738-715,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+812,Penelope,Poll,ppollmj@stumbleupon.com,Female,63629-3031,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+813,Filia,Kembery,fkemberymk@rambler.ru,,13630-0053,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+814,Reilly,Loynes,rloynesml@sitemeter.com,,41190-950,"[{2024-24-01,Telefonía,P-001,4000-03-31}",44680.0,False,0.0,True,Bronze
+815,Reta,Sarre,rsarremm@unicef.org,Female,63304-629,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+816,Valentina,Issitt,vissittmn@hubpages.com,,65862-062,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+817,Nanci,Baumer,nbaumermo@1688.com,,11673-217,"[{2023-04-01,Telefonía,P-001,2025-03-31}",43574.0,False,0.0,False,
+818,Harrison,Welbelove,hwelbelovemp@tuttocitta.it,,64117-284,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+819,Tate,Saw,tsawmq@1688.com,,0832-0044,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+820,Barbara,Rawle,,,69190-336,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+821,Lanni,Edmett,ledmettms@usgs.gov,Female,13537-067,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+822,Romona,Dannett,rdannettmt@hao123.com,,0409-1902,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,,True,Bronze
+823,Genna,Abbys,gabbysmu@ft.com,,68852-7777,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Gold
+824,Bobby,Brokenshaw,,,49817-1987,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+825,Murdoch,O'Bradain,mobradainmw@prweb.com,,58118-0066,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+826,Lauraine,Englishby,lenglishbymx@illinois.edu,,13537-511,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+827,Gideon,Medcalf,gmedcalfmy@comcast.net,,62584-639,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+828,Denyse,Sambells,dsambellsmz@apple.com,,44827-303,"[{2024-24-01,Telefonía,P-001,4000-03-31}",21579.0,False,1.0,True,Bronze
+829,Allison,Fernie,afernien0@cbc.ca,,0268-1254,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+830,Dodie,Fernandez,dfernandezn1@bigcartel.com,Female,55289-606,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+831,Barrie,Havile,bhavilen2@hhs.gov,Male,64117-177,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+832,Latrena,Fernier,,,37000-349,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+833,Perle,Pervoe,ppervoen4@buzzfeed.com,Female,66116-352,"[{2023-04-01,Telefonía,P-001,2025-03-31}",91065.0,False,1.0,False,
+834,Zorina,Le Port,zleportn5@themeforest.net,Female,57955-0162,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",47513.0,True,0.0,True,Platinum
+835,Ciel,Sudlow,csudlown6@nih.gov,,10157-9842,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Diamond
+836,Padgett,Skett,,,10202-751,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+837,Krispin,O'Sullivan,kosullivann8@hubpages.com,Male,0093-2049,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+838,Robbin,Anster,ranstern9@google.com,Female,58488-006,"[{2024-24-01,Telefonía,P-001,4000-03-31}",98391.0,False,0.0,True,Bronze
+839,Kathi,Easman,keasmanna@yahoo.com,,76237-201,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+840,Rance,Bewsey,,,63323-695,"[{2023-04-01,Telefonía,P-001,2025-03-31}",48648.0,False,1.0,False,
+841,Ritchie,Josovitz,rjosovitznc@umich.edu,,64720-150,"[{2024-24-01,Telefonía,P-001,4000-03-31}",83947.0,False,1.0,True,Bronze
+842,Magdalene,Boffey,mboffeynd@woothemes.com,,55111-718,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+843,Blakeley,MacGeffen,bmacgeffenne@tuttocitta.it,Female,68387-214,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",27564.0,False,1.0,True,Platinum
+844,Daryn,Berni,dberninf@live.com,,52125-466,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+845,Muire,Bunkle,mbunkleng@naver.com,,54868-4981,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+846,Homere,Beddard,hbeddardnh@de.vu,,36987-3314,"[{2023-04-01,Telefonía,P-001,2025-03-31}",68456.0,True,1.0,False,
+847,Mei,Simmons,msimmonsni@oracle.com,Female,54868-6330,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+848,Carmen,Huscroft,chuscroftnj@people.com.cn,Female,68788-9012,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+849,Lenka,Roarty,lroartynk@sfgate.com,,65841-642,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+850,Gloria,O'Hannigan,gohannigannl@europa.eu,,55111-368,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+851,Gabriela,Castel,gcastelnm@tuttocitta.it,,49349-175,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+852,Oralie,Bedborough,,Female,0904-6053,"[{2023-04-01,Telefonía,P-001,2025-03-31}",80891.0,True,1.0,False,
+853,Rubin,Beetles,rbeetlesno@soundcloud.com,Male,49852-180,"[{2023-04-01,Telefonía,P-001,2025-03-31}",45210.0,False,1.0,False,
+854,Clotilda,Winyard,cwinyardnp@usda.gov,,76103-004,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+855,Rodd,Wallington,,Male,36987-3044,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Gold
+856,Bette-ann,McOnie,bmconienr@spiegel.de,,0131-2470,"[{2023-04-01,Telefonía,P-001,2025-03-31}",39599.0,True,0.0,False,
+857,Mia,Coleby,mcolebyns@t-online.de,Female,0113-0548,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+858,Harold,Hunting,hhuntingnt@yellowpages.com,Male,48878-4051,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+859,Talbot,Dreschler,,,55758-003,"[{2023-04-01,Telefonía,P-001,2025-03-31}",59253.0,False,1.0,False,
+860,Ariel,Dunbobbin,adunbobbinnv@yolasite.com,Female,60505-0272,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+861,Zack,Waller,,,49349-721,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",93664.0,False,1.0,True,Gold
+862,Willard,Bartels,wbartelsnx@digg.com,,0641-0476,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",74040.0,False,1.0,True,Silver
+863,Erl,Soppeth,esoppethny@sun.com,Male,43742-0252,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+864,Vally,Breslin,vbreslinnz@earthlink.net,,69017-206,"[{2024-24-01,Telefonía,P-001,4000-03-31}",87645.0,True,0.0,True,Bronze
+865,Larisa,Hoofe,lhoofeo0@xrea.com,,60681-0401,"[{2023-04-01,Telefonía,P-001,2025-03-31}",81587.0,False,1.0,False,
+866,Modesta,Petche,mpetcheo1@digg.com,,63739-435,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+867,Matthieu,Haxell,mhaxello2@slate.com,,36000-162,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+868,Philipa,Strickland,pstricklando3@exblog.jp,Genderqueer,45963-412,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+869,Birch,Dwire,bdwireo4@dailymail.co.uk,,64778-1372,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+870,Laney,Doe,ldoeo5@tripadvisor.com,Female,55154-5656,"[{2023-04-01,Telefonía,P-001,2025-03-31}",96863.0,False,1.0,False,
+871,Basia,Uttermare,buttermareo6@eepurl.com,Female,54868-4810,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+872,Langston,Pattullo,lpattulloo7@chicagotribune.com,,37205-138,"[{2023-04-01,Telefonía,P-001,2025-03-31}",67000.0,False,1.0,False,
+873,Ysabel,Hallad,yhallado8@theglobeandmail.com,,51879-210,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+874,Duke,Gopsill,dgopsillo9@drupal.org,,11523-7162,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+875,Devon,Jeffreys,djeffreysoa@histats.com,,0093-4233,"[{2023-04-01,Telefonía,P-001,2025-03-31}",84109.0,True,0.0,False,
+876,Leroi,Polet,lpoletob@buzzfeed.com,,66184-142,"[{2023-04-01,Telefonía,P-001,2025-03-31}",72332.0,True,0.0,False,
+877,Hussein,Coursor,hcoursoroc@tinyurl.com,Male,66382-446,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+878,Lucita,Corke,lcorkeod@reuters.com,,0409-3218,"[{2024-24-01,Telefonía,P-001,4000-03-31}",20114.0,True,0.0,True,Bronze
+879,Baron,Laffan,blaffanoe@ameblo.jp,,49884-009,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+880,Foster,Lauga,flaugaof@ow.ly,,0409-6535,"[{2023-04-01,Telefonía,P-001,2025-03-31}",86661.0,True,0.0,False,
+881,Kylila,Lorriman,,,21130-047,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+882,Sander,Hallgalley,shallgalleyoh@oaic.gov.au,,0591-0411,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+883,Fawne,Furber,ffurberoi@youtube.com,,42681-9033,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+884,Madelle,Poone,mpooneoj@google.com.hk,,37205-302,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+885,Meris,Bodocs,mbodocsok@cmu.edu,Female,67296-0599,"[{2023-04-01,Telefonía,P-001,2025-03-31}",95789.0,True,0.0,False,
+886,Forrest,Clever,fcleverol@google.ca,Male,41163-401,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+887,Aluin,Napier,,Male,41520-431,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+888,Beatrisa,Eplett,bepletton@unblog.fr,,63739-325,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+889,Waylen,Meakes,wmeakesoo@flavors.me,,68428-103,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",10805.0,False,0.0,True,Gold
+890,Jordanna,Siemons,jsiemonsop@wired.com,Female,57356-207,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,,True,Gold
+891,Lockwood,Luxmoore,lluxmooreoq@ebay.co.uk,,68258-7100,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+892,Rudy,Galway,rgalwayor@cnet.com,Male,55289-203,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+893,Say,Baggot,sbaggotos@w3.org,Male,55154-6627,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+894,Mano,Joye,mjoyeot@about.me,,57627-133,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+895,Annecorinne,Sheppard,asheppardou@mlb.com,,52125-626,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+896,Gerrard,Dell Casa,gdellcasaov@buzzfeed.com,Male,10812-171,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+897,Ricky,Coard,rcoardow@phpbb.com,Genderfluid,55714-4521,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Platinum
+898,Corrinne,Deeley,cdeeleyox@biglobe.ne.jp,Female,0268-0958,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+899,Gaston,Curthoys,,,46994-908,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+900,Hedvige,Morcomb,hmorcomboz@yahoo.com,,50563-200,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+901,Myrvyn,McArthur,mmcarthurp0@sphinn.com,,49781-089,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+902,Ennis,Yushkov,eyushkovp1@theguardian.com,,33261-104,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+903,Pancho,Ferron,,Male,64141-010,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,,True,Bronze
+904,Heloise,Bristow,hbristowp3@intel.com,Female,76237-315,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+905,Vassily,Dan,vdanp4@omniture.com,Male,67253-233,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+906,Mikkel,Damrell,mdamrellp5@nature.com,,54569-1970,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+907,Madison,Norcott,mnorcottp6@google.cn,,61727-327,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,,False,
+908,Tore,Dall,tdallp7@microsoft.com,,63776-710,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+909,Min,Sidebotham,msidebothamp8@mashable.com,Female,36800-227,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+910,Doll,Rydings,drydingsp9@auda.org.au,Female,57627-108,"[{2023-04-01,Telefonía,P-001,2025-03-31}",21062.0,True,0.0,False,
+911,Robinet,Frango,,Female,54948-110,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+912,Kelley,Brayne,,,50991-222,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+913,Del,Warman,dwarmanpc@purevolume.com,Male,64764-550,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+914,Cinda,Reeks,creekspd@mapquest.com,Female,0093-3165,"[{2023-04-01,Telefonía,P-001,2025-03-31}",71102.0,True,1.0,False,
+915,Boonie,Haskell,bhaskellpe@bravesites.com,,64525-0542,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Gold
+916,Nanci,Fontell,,Female,68151-4504,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,,False,
+917,Tallou,Piccop,tpiccoppg@washington.edu,,36987-2752,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,False,
+918,Angelo,Halton,ahaltonph@harvard.edu,,65691-0088,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Silver
+919,Addy,Whannel,awhannelpi@washingtonpost.com,,10096-0251,"[{2023-04-01,Telefonía,P-001,2025-03-31}",77877.0,False,0.0,False,
+920,Loni,Grinikhinov,lgrinikhinovpj@ucoz.com,,50436-3332,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+921,Conant,MacLardie,,,0615-5554,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+922,Pooh,Stenners,pstennerspl@cargocollective.com,,42254-089,"[{2024-24-01,Telefonía,P-001,4000-03-31}",65321.0,True,0.0,True,Bronze
+923,Jasmine,Wharmby,,,53808-0900,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+924,Calhoun,Yeowell,cyeowellpn@yelp.com,,37000-904,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+925,Vernor,Grindlay,vgrindlaypo@baidu.com,Male,59667-0043,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,,False,
+926,Cherrita,Shaves,cshavespp@usnews.com,,30142-901,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,,False,
+927,Josefina,Dumbelton,,,62333-111,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,,True,Bronze
+928,Anastassia,Resun,aresunpr@disqus.com,,0113-0217,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",28730.0,True,,True,Silver
+929,Sayers,Angear,sangearps@typepad.com,Male,76270-109,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+930,Ernesta,Luciani,elucianipt@bravesites.com,,21695-025,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+931,Adelaide,Provest,aprovestpu@imdb.com,Bigender,68788-9738,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+932,Bessy,Anger,bangerpv@icio.us,,0378-3634,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+933,Renie,Franciskiewicz,rfranciskiewiczpw@thetimes.co.uk,,51672-4154,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",84592.0,True,0.0,True,Gold
+934,Hillyer,Bartoszek,hbartoszekpx@fda.gov,,0173-0772,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+935,Thomasina,Lawton,tlawtonpy@ameblo.jp,,0573-2830,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+936,Bourke,Allsepp,ballsepppz@engadget.com,,0781-1516,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Gold
+937,Elle,Barensen,ebarensenq0@yelp.com,,17518-060,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+938,Eva,Gerritsma,egerritsmaq1@clickbank.net,,51285-087,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Platinum
+939,Elston,Joss,ejossq2@opera.com,,57955-1010,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Platinum
+940,Karilynn,Deeble,kdeebleq3@census.gov,,0363-0520,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,,True,Bronze
+941,Kerianne,Wrennall,kwrennallq4@unblog.fr,Female,13537-175,"[{2023-04-01,Telefonía,P-001,2025-03-31}",37308.0,False,0.0,False,
+942,Lurette,Canter,lcanterq5@cornell.edu,Female,49288-0715,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",16560.0,False,,True,Gold
+943,Berta,James,bjamesq6@g.co,,51655-003,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+944,Tonie,Garstan,tgarstanq7@cbsnews.com,,66993-949,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",37748.0,False,1.0,True,Silver
+945,Alidia,Silson,,,49999-265,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+946,Brandy,Insall,binsallq9@theguardian.com,Male,52125-535,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",22041.0,False,0.0,True,Gold
+947,Vivie,Gibbon,vgibbonqa@techcrunch.com,Female,58118-0107,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,1.0,True,Platinum
+948,Bailey,Audrey,baudreyqb@nationalgeographic.com,,61589-6006,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+949,Valma,Cuell,,Female,29300-112,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+950,Janaye,Bevar,jbevarqd@1688.com,,0363-8127,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+951,Gerek,Heersma,gheersmaqe@free.fr,Male,11410-402,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+952,Celie,Blannin,,Female,52982-100,"[{2023-04-01,Telefonía,P-001,2025-03-31}",41191.0,False,0.0,False,
+953,Sherwin,Legan,,,36987-2541,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+954,Britta,Sonier,bsonierqh@alexa.com,,61509-102,"[{2023-04-01,Telefonía,P-001,2025-03-31}",38020.0,True,1.0,False,
+955,Gerald,Di Claudio,gdiclaudioqi@xing.com,,98132-154,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,,False,
+956,Aurora,Hellsdon,,,53808-0280,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+957,Fanya,Fairbourne,ffairbourneqk@usatoday.com,Female,43857-0192,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+958,Dorella,Fedorski,dfedorskiql@domainmarket.com,,50458-920,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+959,Catharina,Farraway,cfarrawayqm@yandex.ru,,57237-032,"[{2024-24-01,Telefonía,P-001,4000-03-31}",59251.0,True,0.0,True,Bronze
+960,Esmaria,Spriddle,espriddleqn@pcworld.com,,25543-012,"[{2023-04-01,Telefonía,P-001,2025-03-31}",19905.0,False,1.0,False,
+961,Dacia,Reeve,dreeveqo@goo.gl,Genderqueer,49738-467,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+962,Kamilah,Nutkin,knutkinqp@businessweek.com,,0338-1145,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+963,Marianna,Ixer,mixerqq@webs.com,,0006-3918,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+964,Ragnar,Gilby,rgilbyqr@indiegogo.com,Male,67457-423,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+965,Michael,Parkhouse,mparkhouseqs@yolasite.com,,98132-731,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+966,Moishe,Forder,,,58118-5791,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+967,Julio,Barracks,jbarracksqu@blinklist.com,Male,58503-028,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,0.0,True,Gold
+968,Jordan,Howsin,jhowsinqv@studiopress.com,,61722-003,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,1.0,True,Bronze
+969,Hermia,Zettler,hzettlerqw@ovh.net,,68001-181,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+970,Gasper,Breheny,gbrehenyqx@prlog.org,Male,16477-822,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+971,Lynnet,Berceros,lbercerosqy@facebook.com,Female,0603-7831,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+972,Sheela,O'Sculley,sosculleyqz@plala.or.jp,Female,58503-006,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+973,Gideon,Fendley,gfendleyr0@house.gov,Male,16590-281,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+974,Kirstin,Blitz,kblitzr1@goodreads.com,,60512-6039,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,False,
+975,Had,Bayston,hbaystonr2@bluehost.com,,60505-3693,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+976,Sue,Meneghelli,smeneghellir3@cnn.com,,41250-167,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+977,Mariam,Malia,mmaliar4@webnode.com,Female,54575-335,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+978,Reinold,Souttar,rsouttarr5@sciencedirect.com,,63629-1618,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,,False,
+979,Car,Hayen,chayenr6@mlb.com,,42669-998,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Silver
+980,Kean,O'Rafferty,koraffertyr7@sakura.ne.jp,,52664-005,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,False,0.0,True,Bronze
+981,Maegan,Pond-Jones,mpondjonesr8@blog.com,,43857-0174,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+982,Chauncey,Streetfield,cstreetfieldr9@imdb.com,,50996-001,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",22408.0,False,1.0,True,Platinum
+983,Morna,Lentsch,mlentschra@4shared.com,Female,0268-1472,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,True,0.0,True,Gold
+984,Vinita,Storrah,vstorrahrb@mashable.com,,0173-0844,"[{2023-04-01,Telefonía,P-001,2025-03-31}",12715.0,True,1.0,False,
+985,Armin,Bangham,abanghamrc@artisteer.com,,61657-0154,"[{2023-04-01,Telefonía,P-001,2025-03-31}",68432.0,False,1.0,False,
+986,Meggi,Bernardes,mbernardesrd@1688.com,,41477-420,"[{2023-04-01,Telefonía,P-001,2024-03-31},{2023-06-01,Fibra,P-002,2025-03-31},{2023-09-11,TV,P-003,4000-03-31},{2023-04-01,Segunda línea - Telefonía,P-004,2027-03-31},{2023-09-01,Pack Fútbol,P-005,2030-03-31},{2023-06-01,Segunda línea - Fibra,P-006,2030-03-31}]",,False,1.0,True,Diamond
+987,Brigid,Tregidgo,btregidgore@wisc.edu,,0378-1110,"[{2024-24-01,Telefonía,P-001,4000-03-31}",14230.0,False,1.0,True,Bronze
+988,Fanny,Hairon,,,0642-0077,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,0.0,True,Bronze
+989,Kris,Medway,kmedwayrg@eventbrite.com,Female,45046-0001,"[{2023-04-01,Telefonía,P-001,2025-03-31}",16852.0,False,0.0,False,
+990,Kelsi,Musk,kmuskrh@cnbc.com,Female,57520-0170,"[{2023-04-01,Telefonía,P-001,2025-03-31}",59620.0,False,1.0,False,
+991,Emmanuel,Gehrts,egehrtsri@google.co.uk,Male,45802-182,"[{2023-04-01,Telefonía,P-001,4000-03-31},{2023-06-01,Fibra,P-002,4000-03-31}",11869.0,True,1.0,True,Silver
+992,Saleem,Moyce,smoycerj@taobao.com,Male,62011-0102,"[{2023-04-01,Telefonía,P-001,4000-03-31},{2023-06-01,Fibra,P-002,4000-03-31},{2023-09-11,TV,P-003,4000-03-31}",51113.0,False,0.0,True,Gold
+993,Daisey,Rany,dranyrk@cargocollective.com,,0869-0004,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+994,Reena,Frew,rfrewrl@imageshack.us,Female,0615-7749,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+995,Trudi,Cade,tcaderm@google.pl,,68479-300,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,1.0,False,
+996,Cart,Wattinham,cwattinhamrn@cpanel.net,,76436-201,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,1.0,False,
+997,Garrek,Syme,gsymero@joomla.org,,50114-0150,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,False,0.0,False,
+998,Idelle,Beauly,ibeaulyrp@sciencedaily.com,Female,65841-030,"[{2023-04-01,Telefonía,P-001,2025-03-31}",,True,0.0,False,
+999,Catherine,Goodboddy,cgoodboddyrq@soundcloud.com,,60760-279,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
+1000,Jack,Black,jack@twitter.com,,60760-279,"[{2024-24-01,Telefonía,P-001,4000-03-31}",,True,1.0,True,Bronze
